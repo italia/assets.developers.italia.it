@@ -40,7 +40,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"QWwOxOXM_4UxNBDrcmE3anGVOSMGGBXa5AHZq0nsaLvF--S7nefYz0myNvtP-rUmjYVQE2HZfNyuDwrlWoJECg","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"2DS3RfmcJJ5IQN-dIX67o0DG0q_xpnAwr_-QpTM6aTS2iRal_ywpkamOTGPU4iVcoBVKA1aNw1-8qwG1OhLTwQ","x-gitlab-feature-category":"source_code_management"};
   const url = `https://oros-git.regione.puglia.it/api/graphql`
 
   const opts = {
@@ -115,7 +115,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 <meta content="https://oros-git.regione.puglia.it/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="28Q_hyzeTN5C5hSFAuAZKCTs_80mO7Zt3lz_4OOsosBfU9X4VPVrlDpgMpU_e5tk2PyW_UH632uUUiyu8MKOcQ" />
+<meta name="csrf-token" content="2PAd3hCbdaYbJoZbGF2jn2EFQtipZkC7B_EzMys6ZTy2Tbw-Fit4qfroFaXtwT1ggdbadA5N89QUpaIjIhLfyQ" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">

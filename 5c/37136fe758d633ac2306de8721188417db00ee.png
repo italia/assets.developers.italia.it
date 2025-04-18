@@ -31,7 +31,7 @@
 
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-225433424a87.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-cba26849680f.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-f916fa79dd3f.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-1c060317002f.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-adc3415b2459.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-4fce88777fa8.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-0210be90f4d3.css" />
@@ -39,11 +39,11 @@
   
 
 
-  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["alternate_user_config_repo","contentful_lp_flex_features_actions","contentful_lp_flex_features_codespaces","contentful_lp_flex_features_code_review","contentful_lp_flex_features_code_search","contentful_lp_flex_features_discussions","contentful_lp_flex_features_issues","contentful_lp_footnotes","copilot_new_immersive_references_ui","copilot_immersive_issue_preview","copilot_chat_custom_instructions","copilot_chat_repo_custom_instructions_preview","copilot_chat_show_model_picker_on_retry","copilot_chat_vision_in_claude","copilot_custom_copilots_filter_threads","copilot_no_floating_button","copilot_topics_as_references","copilot_read_shared_conversation","copilot_duplicate_thread","copilot_free_to_paid_telem","dotcom_chat_client_side_skills","failbot_handle_non_errors","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","github_models_gateway_parse_params","github_models_o3_mini_streaming","insert_before_patch","issues_advanced_search","issues_react_remove_placeholders","issues_react_blur_item_picker_on_close","issues_advanced_search_nested_ownership_filters","issues_dashboard_no_redirects","marketing_pages_search_explore_provider","nonreporting_relay_graphql_status_codes","primer_react_css_modules_ga","remove_child_patch","report_hydro_web_vitals","sample_network_conn_type","swp_enterprise_contact_form","site_proxima_australia_update","viewscreen_sandbox","issues_react_create_milestone","lifecycle_label_name_updates","copilot_task_oriented_assistive_prompts","issues_react_feature_preview_is_over","codespaces_prebuild_region_target_update","copilot_code_review_sign_up_closed","billing_usage_report_banner_notifications"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-79e3c90819ca.js"></script>
+  <script type="application/json" id="client-env">{"locale":"en","featureFlags":["alternate_user_config_repo","contentful_lp_flex_features_actions","contentful_lp_flex_features_codespaces","contentful_lp_flex_features_code_review","contentful_lp_flex_features_code_search","contentful_lp_flex_features_discussions","contentful_lp_flex_features_issues","contentful_lp_footnotes","copilot_new_immersive_references_ui","copilot_immersive_issue_preview","copilot_workbench_git_history_for_iterations","copilot_chat_custom_instructions","copilot_chat_repo_custom_instructions_preview","copilot_chat_show_model_picker_on_retry","copilot_chat_vision_in_claude","copilot_custom_copilots_filter_threads","copilot_custom_copilots_increase_max_files","copilot_no_floating_button","copilot_topics_as_references","copilot_read_shared_conversation","copilot_duplicate_thread","copilot_free_to_paid_telem","dotcom_chat_client_side_skills","direct_to_salesforce","failbot_handle_non_errors","ghost_pilot_confidence_truncation_25","ghost_pilot_confidence_truncation_40","github_models_gateway_parse_params","github_models_o3_mini_streaming","insert_before_patch","issues_react_remove_placeholders","issues_react_blur_item_picker_on_close","issues_dashboard_no_redirects","marketing_pages_search_explore_provider","nonreporting_relay_graphql_status_codes","primer_react_css_modules_ga","remove_child_patch","sample_network_conn_type","swp_enterprise_contact_form","site_proxima_australia_update","viewscreen_sandbox","issues_react_create_milestone","lifecycle_label_name_updates","copilot_task_oriented_assistive_prompts","issues_react_feature_preview_is_over","codespaces_prebuild_region_target_update","copilot_code_review_sign_up_closed","use_paginated_repo_picker_cost_center_form","billing_usage_report_banner_notifications","link_contact_sales_swp_marketo"]}</script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-1f5f5fcae15e.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover-fn_js-81211bd82278.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_stacktrace-parser_dist_s-1d3d52-4be8ffe9a34a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_failbot_failbot_ts-f68d98310bad.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_failbot_failbot_ts-ad4e497ef7dc.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-1309ac7398f5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_index_mjs-0dbb79f97f8f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-f690fd9ae3d5.js"></script>
@@ -54,7 +54,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_markdown-toolbar-element_dist_index_js-ceef33f593fa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-c44a69-08c257325fd3.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-c006416f1d14.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-f8ca80de2bd7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-c7475cff79ff.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_braintree_browser-detection_dist_browser-detection_js-node_modules_githu-2906d7-2a07a295af40.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-be8cb88f481b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_morphdom_dist_morphdom-esm_js-0c08218c7d5f.js"></script>
@@ -67,14 +67,14 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-3e000c5d31a9.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-d0d0a6-e7f74ee74d91.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-4bcbbbfbe1d4.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-fd97a7eacc4d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-2fc468514008.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-f6223d90c7ba.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-01e85cd1be94.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_catalyst_lib_inde-dbbea9-26cce2010167.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-d6d3c94ee97e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-9eabd7cd45fe.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/primer-react-16ec0022f537.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-core-2b4ad44fa8b0.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/primer-react-332e3b3bc86a.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-core-4c118154e199.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-80430c87778a.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/octicons-react-cf2f2ab8dab4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_emotion_is-prop-valid_dist_emotion-is-prop-valid_esm_js-node_modules_emo-b1c483-23083d170518.js"></script>
@@ -88,11 +88,11 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_paths_index_ts-cae0c0a9df7d.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-7496afc3784d.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_commit-attribution_index_ts-ui_packages_commit-checks-status_index_ts-ui_packages-762eaa-bac5b6fc3f70.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_utilities_web-worker_ts-ui_packages_code-view-shared_worker-jobs-f17ac0-196c05a5bcff.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_app-uuid_app-uuid_ts-ui_packages_document-metadata_document-metadata_ts-ui_packag-4d8de9-fb57cda8a9d3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_utilities_web-worker_ts-ui_packages_code-view-shared_worker-jobs-f17ac0-e38ee19ff132.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_app-uuid_app-uuid_ts-ui_packages_document-metadata_document-metadata_ts-ui_packag-4d8de9-d8d47214dd6c.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_code-view-shared_hooks_use-canonical-object_ts-ui_packages_code-view-shared_hooks-c2dbff-923a12b3d018.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-ui_packages_code-nav_code-nav_ts-ui_packages_filter--8253c1-91468a3354f9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-b45b1150c649.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-02c9b9589bfe.js"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react.f22dea1aa55879df6a44.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-code-view.f22923d10335a029bcb1.module.css" />
 
@@ -113,7 +113,7 @@
   <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="3460:18E926:2173392:2D63A0A:68006344" data-pjax-transient="true"/><meta name="html-safe-nonce" content="2baa6955f5eecded46a2c003860d112b8fb3ffab28841d9073b60932fb4dd44f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIzNDYwOjE4RTkyNjoyMTczMzkyOjJENjNBMEE6NjgwMDYzNDQiLCJ2aXNpdG9yX2lkIjoiNDY5NDUyMjkyOTg1NjE0NDE5NiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="1a711129c8c6d2a7d81b087f1bb475a7291971f875c1f3a7ad236864fea0e02f" data-pjax-transient="true"/>
+  <meta name="request-id" content="87C1:1F8283:308AEF7:427A50F:6801B453" data-pjax-transient="true"/><meta name="html-safe-nonce" content="40ccbf38282684d6820b711c5c0c9a95dba9c48df2b397ae65f561adf44b56bf" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4N0MxOjFGODI4MzozMDhBRUY3OjQyN0E1MEY6NjgwMUI0NTMiLCJ2aXNpdG9yX2lkIjoiNDQ4NTczMDY0OTYwODY2NDE0NyIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="19319cfe92f124d08f7260fb972c6b2c90d8e2acc6f45237fc40805a4a9ce6ac" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:478935862" data-turbo-transient>
@@ -166,10 +166,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="8d7ae0bf0ea0c8d44aff85fa16661dfa7cfbfde6e2cd871704c63f49f6ae4ff3" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="7134d7adaf24b7638c6ef4e59730b05d9f90510f85a043eb922b95bee9e2d2f9" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="e26f9f0ba624ee85cc7ac057d8faa8618a4f25a85eab052c33d018ac0f6b1a46" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="0381ac3f396a6f793e066d55695dfe3c897ad1f9071a90375aa7ad0cca305adc" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="225edbdd73373bdd1d0651db56444fffe708ac2aecfa5d0c5db2ed23b8623b7a" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="7b175895cd607191477d5b167a8b217da167a8497384549ddf403b6f6da22105" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="7dcf4aa096f2b4b5b802c580a6b62468967d3d1fce89be3eefd23de654010898" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -191,7 +191,7 @@
 
   <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
 
-  <meta name="release" content="71bb47cf92f359d019e6b3e7c67d8002792cd7f9">
+  <meta name="release" content="045830a24a18737beee1fdea5453efc0cc282e54">
 
   <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000">
   <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
@@ -208,6 +208,7 @@
   <body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
     <div data-turbo-body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
       
+
 
 
     <div class="position-relative header-wrapper js-header-wrapper ">
@@ -774,7 +775,7 @@
           <div class="HeaderMenu-column">
               <div class="border-bottom pb-3 pb-lg-0 pb-lg-3 mb-3 mb-lg-0 mb-lg-3">
                 <ul class="list-style-none f5" >
-                    <!-- BEGIN app/components/site/header_dropdown_item_component.html.erb --><li>
+                    <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;enterprise_platform&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;enterprise_platform_link_enterprise_navbar&quot;}" href="/enterprise">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-stack color-fg-subtle mr-3">
     <path d="M11.063 1.456a1.749 1.749 0 0 1 1.874 0l8.383 5.316a1.751 1.751 0 0 1 0 2.956l-8.383 5.316a1.749 1.749 0 0 1-1.874 0L2.68 9.728a1.751 1.751 0 0 1 0-2.956Zm1.071 1.267a.25.25 0 0 0-.268 0L3.483 8.039a.25.25 0 0 0 0 .422l8.383 5.316a.25.25 0 0 0 .268 0l8.383-5.316a.25.25 0 0 0 0-.422Z"></path><path d="M1.867 12.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path><path d="M1.867 16.324a.75.75 0 0 1 1.035-.232l8.964 5.685a.25.25 0 0 0 .268 0l8.964-5.685a.75.75 0 0 1 .804 1.267l-8.965 5.685a1.749 1.749 0 0 1-1.874 0l-8.965-5.685a.75.75 0 0 1-.231-1.035Z"></path>
@@ -786,13 +787,13 @@
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.html.erb -->
+
                 </ul>
               </div>
               <div class="border-bottom pb-3 pb-lg-0 border-bottom-0">
                     <span class="d-block h4 color-fg-default my-1" id="enterprise-available-add-ons-heading">Available add-ons</span>
                 <ul class="list-style-none f5" aria-labelledby="enterprise-available-add-ons-heading">
-                    <!-- BEGIN app/components/site/header_dropdown_item_component.html.erb --><li>
+                    <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;github_advanced_security&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;github_advanced_security_link_enterprise_navbar&quot;}" href="https://github.com/security/advanced-security">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
     <path d="M16.53 9.78a.75.75 0 0 0-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 0 0-1.06 1.06l2.5 2.5a.75.75 0 0 0 1.06 0l5-5Z"></path><path d="m12.54.637 8.25 2.675A1.75 1.75 0 0 1 22 4.976V10c0 6.19-3.771 10.704-9.401 12.83a1.704 1.704 0 0 1-1.198 0C5.77 20.705 2 16.19 2 10V4.976c0-.758.489-1.43 1.21-1.664L11.46.637a1.748 1.748 0 0 1 1.08 0Zm-.617 1.426-8.25 2.676a.249.249 0 0 0-.173.237V10c0 5.46 3.28 9.483 8.43 11.426a.199.199 0 0 0 .14 0C17.22 19.483 20.5 15.461 20.5 10V4.976a.25.25 0 0 0-.173-.237l-8.25-2.676a.253.253 0 0 0-.154 0Z"></path>
@@ -804,8 +805,8 @@
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.html.erb -->
-                    <!-- BEGIN app/components/site/header_dropdown_item_component.html.erb --><li>
+
+                    <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description pb-lg-3" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;copilot_for_business&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;copilot_for_business_link_enterprise_navbar&quot;}" href="/features/copilot/copilot-business">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
     <path d="M23.922 16.992c-.861 1.495-5.859 5.023-11.922 5.023-6.063 0-11.061-3.528-11.922-5.023A.641.641 0 0 1 0 16.736v-2.869a.841.841 0 0 1 .053-.22c.372-.935 1.347-2.292 2.605-2.656.167-.429.414-1.055.644-1.517a10.195 10.195 0 0 1-.052-1.086c0-1.331.282-2.499 1.132-3.368.397-.406.89-.717 1.474-.952 1.399-1.136 3.392-2.093 6.122-2.093 2.731 0 4.767.957 6.166 2.093.584.235 1.077.546 1.474.952.85.869 1.132 2.037 1.132 3.368 0 .368-.014.733-.052 1.086.23.462.477 1.088.644 1.517 1.258.364 2.233 1.721 2.605 2.656a.832.832 0 0 1 .053.22v2.869a.641.641 0 0 1-.078.256ZM12.172 11h-.344a4.323 4.323 0 0 1-.355.508C10.703 12.455 9.555 13 7.965 13c-1.725 0-2.989-.359-3.782-1.259a2.005 2.005 0 0 1-.085-.104L4 11.741v6.585c1.435.779 4.514 2.179 8 2.179 3.486 0 6.565-1.4 8-2.179v-6.585l-.098-.104s-.033.045-.085.104c-.793.9-2.057 1.259-3.782 1.259-1.59 0-2.738-.545-3.508-1.492a4.323 4.323 0 0 1-.355-.508h-.016.016Zm.641-2.935c.136 1.057.403 1.913.878 2.497.442.544 1.134.938 2.344.938 1.573 0 2.292-.337 2.657-.751.384-.435.558-1.15.558-2.361 0-1.14-.243-1.847-.705-2.319-.477-.488-1.319-.862-2.824-1.025-1.487-.161-2.192.138-2.533.529-.269.307-.437.808-.438 1.578v.021c0 .265.021.562.063.893Zm-1.626 0c.042-.331.063-.628.063-.894v-.02c-.001-.77-.169-1.271-.438-1.578-.341-.391-1.046-.69-2.533-.529-1.505.163-2.347.537-2.824 1.025-.462.472-.705 1.179-.705 2.319 0 1.211.175 1.926.558 2.361.365.414 1.084.751 2.657.751 1.21 0 1.902-.394 2.344-.938.475-.584.742-1.44.878-2.497Z"></path><path d="M14.5 14.25a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Zm-5 0a1 1 0 0 1 1 1v2a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1Z"></path>
@@ -817,8 +818,8 @@
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.html.erb -->
-                    <!-- BEGIN app/components/site/header_dropdown_item_component.html.erb --><li>
+
+                    <li>
   <a class="HeaderMenu-dropdown-link d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center Link--has-description" data-analytics-event="{&quot;location&quot;:&quot;navbar&quot;,&quot;action&quot;:&quot;premium_support&quot;,&quot;context&quot;:&quot;enterprise&quot;,&quot;tag&quot;:&quot;link&quot;,&quot;label&quot;:&quot;premium_support_link_enterprise_navbar&quot;}" href="/premium-support">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
     <path d="M1.75 1h12.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 14.25 14H8.061l-2.574 2.573A1.458 1.458 0 0 1 3 15.543V14H1.75A1.75 1.75 0 0 1 0 12.25v-9.5C0 1.784.784 1 1.75 1ZM1.5 2.75v9.5c0 .138.112.25.25.25h2a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h6.5a.25.25 0 0 0 .25-.25v-9.5a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path><path d="M22.5 8.75a.25.25 0 0 0-.25-.25h-3.5a.75.75 0 0 1 0-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0 1 22.25 20H21v1.543a1.457 1.457 0 0 1-2.487 1.03L15.939 20H10.75A1.75 1.75 0 0 1 9 18.25v-1.465a.75.75 0 0 1 1.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 0 1 .53.22l2.72 2.72v-2.19a.75.75 0 0 1 .75-.75h2a.25.25 0 0 0 .25-.25v-9.5Z"></path>
@@ -830,7 +831,7 @@
 
     
 </a></li>
-<!-- END app/components/site/header_dropdown_item_component.html.erb -->
+
                 </ul>
               </div>
           </div>
@@ -849,7 +850,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:gbetorre/rischi" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="xizpi31m0UDhJvvNjN9EN6_tArG1dvNLlF34YBaSu_qbfOvFUUGm4a9N2gU3t3w7JMVoGGRmnJMhA91JiWAGGg" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="gbetorre/rischi" data-current-org="" data-current-owner="gbetorre" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:gbetorre/rischi" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="RUCwqRXOIautRTjCwjVXbSL5Hgo7PKLjCjuvpCNKx4pQ4nbXzgXPG3X1fvmVzzEx_oWeV5AcQiSKhDqoKY2G1w" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="gbetorre/rischi" data-current-org="" data-current-owner="gbetorre" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -914,7 +915,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-2f70833b-5817-4ad6-91e4-fc776c8be7b2" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-7a9c635f-38fb-4498-8368-d3287ece635e" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -1151,7 +1152,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-2f70833b-5817-4ad6-91e4-fc776c8be7b2" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-7a9c635f-38fb-4498-8368-d3287ece635e" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -1192,7 +1193,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="veEVbu+MYOE+qu9GBhhxbA5TydM+ht4GsrrAZCdPPXlLOKOKvU3oq+nhVooXSAuwNPhHQlJgGBOoxbLnReZysA==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="OKVGtR4KfDlMPDfT9Z/11BJk6dmMAxD42DcTa9oUxf24YgrKK6RYEf8DsXgdfdhjn4hehNUrLtIF+uFaYMaXWg==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -1230,7 +1231,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="cj/lWASVS6KZ4OoqXrGucNWFt9GpQgiNxuSH6RviwfPHVwpdLuoFsyg9InaMR9HC2TsHGFL22t1Eu2POm9iDaw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="5z+c5bFDUutv53+lJOOHglnS3z/zBdZDZqJufmvtVcYz82UoG8rseMaLfepOhzjZ+/GcN8vzR9Fvps8LqmeuOg==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1248,7 +1249,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="Ytdxl+A4wPiWUHzOlPIDq+/pjorj+KACQM/SaP2K9xUlBvATmL4jd7QKO6ogcXDrZGSojzdVzjalwWgLMX7tqA==" />
+              <input type="hidden" data-csrf="true" value="VsiFgmA0uVIC4zyHfxCPCGQ2K/A9u7iHldx1nG0k38q9tr7AymU8WQJNJ3IlDwhZjZ+FSIT0OCxZNHw8vMipfA==" />
             </auto-check>
           </div>
 
@@ -1325,10 +1326,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-50540a0c-e052-4a9d-a3e9-93a8809a21b2" aria-labelledby="tooltip-cf1a108b-9e2f-4625-84e5-3962400ca85b" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-05761a2d-31b1-4cc2-af40-c00bb69bdad1" aria-labelledby="tooltip-da373052-9025-4534-80a6-230129dd3977" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-cf1a108b-9e2f-4625-84e5-3962400ca85b" for="icon-button-50540a0c-e052-4a9d-a3e9-93a8809a21b2" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-da373052-9025-4534-80a6-230129dd3977" for="icon-button-05761a2d-31b1-4cc2-af40-c00bb69bdad1" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1429,7 +1430,7 @@
             <a href="/login?return_to=%2Fgbetorre%2Frischi" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/gbetorre/rischi/blob/main/rol/images/logo.png&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="655e7c72b8e4b89bb0d4d528e3672a034be9bf19080f153e5410d7158e372df8" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-31c3d265-bc4b-4bd5-a0e4-d71fd1f0f7ce" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-102d6235-e2b2-4333-9a71-2a11ab75ea23" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
@@ -1549,22 +1550,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-7e185d75-0a29-43e8-9ae5-0b8b673430b6-button" popovertarget="action-menu-7e185d75-0a29-43e8-9ae5-0b8b673430b6-overlay" aria-controls="action-menu-7e185d75-0a29-43e8-9ae5-0b8b673430b6-list" aria-haspopup="true" aria-labelledby="tooltip-3f272c45-7da6-40f4-a9d4-dc8469952afc" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-1f64a93a-ae1d-4692-af11-8576fe455742-button" popovertarget="action-menu-1f64a93a-ae1d-4692-af11-8576fe455742-overlay" aria-controls="action-menu-1f64a93a-ae1d-4692-af11-8576fe455742-list" aria-haspopup="true" aria-labelledby="tooltip-105b1df4-b086-4c1e-9d36-02374035cea1" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-3f272c45-7da6-40f4-a9d4-dc8469952afc" for="action-menu-7e185d75-0a29-43e8-9ae5-0b8b673430b6-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-105b1df4-b086-4c1e-9d36-02374035cea1" for="action-menu-1f64a93a-ae1d-4692-af11-8576fe455742-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-7e185d75-0a29-43e8-9ae5-0b8b673430b6-overlay" anchor="action-menu-7e185d75-0a29-43e8-9ae5-0b8b673430b6-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-1f64a93a-ae1d-4692-af11-8576fe455742-overlay" anchor="action-menu-1f64a93a-ae1d-4692-af11-8576fe455742-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-7e185d75-0a29-43e8-9ae5-0b8b673430b6-button" id="action-menu-7e185d75-0a29-43e8-9ae5-0b8b673430b6-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-1f64a93a-ae1d-4692-af11-8576fe455742-button" id="action-menu-1f64a93a-ae1d-4692-af11-8576fe455742-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-63594f62-4707-4f0b-9f4f-00b6be8b58cd" href="/gbetorre/rischi" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-35cd5b7a-47ce-4046-ba5e-04b520bb51c3" href="/gbetorre/rischi" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1580,7 +1581,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-27178714-15f6-429b-ba1c-2d46229702c5" href="/gbetorre/rischi/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-5889d730-d1b6-44a7-838b-9a60767cd4a6" href="/gbetorre/rischi/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1596,7 +1597,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-bc7c72f4-d97c-4680-856e-c1a285393565" href="/gbetorre/rischi/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-224c7adf-ac12-44be-ba43-1f8fbf2704c7" href="/gbetorre/rischi/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1612,7 +1613,7 @@
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-cf0d4cf9-52a0-4c88-b6ab-39ce2ce78c2a" href="/gbetorre/rischi/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-0c5e0a99-41f6-4a16-bd23-ed0198ee7122" href="/gbetorre/rischi/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1628,7 +1629,7 @@
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-e3bca3c7-c1fa-4e88-8095-607121c166f7" href="/gbetorre/rischi/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-aaafb216-8001-4c19-9f63-75c07d97b0ba" href="/gbetorre/rischi/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1644,7 +1645,7 @@
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-01ffaa13-f074-4311-be07-ab4cdbdbff22" href="/gbetorre/rischi/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-adbb9f97-f5c0-41e5-80e8-18dacc43576a" href="/gbetorre/rischi/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1660,7 +1661,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-04fcc14e-a183-45c0-8363-8fee1b19b13f" href="/gbetorre/rischi/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-3a2d27e5-e964-46e0-9f13-4b6280380ccd" href="/gbetorre/rischi/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1717,7 +1718,7 @@
   data-data-router-enabled="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"rol/images":{"items":[{"name":"about-header.jpg","path":"rol/images/about-header.jpg","contentType":"file"},{"name":"about-img.jpg","path":"rol/images/about-img.jpg","contentType":"file"},{"name":"contact-header.jpg","path":"rol/images/contact-header.jpg","contentType":"file"},{"name":"home-bg.jpg","path":"rol/images/home-bg.jpg","contentType":"file"},{"name":"home-bg1.jpg","path":"rol/images/home-bg1.jpg","contentType":"file"},{"name":"home-bg10.jpg","path":"rol/images/home-bg10.jpg","contentType":"file"},{"name":"home-bg11.jpg","path":"rol/images/home-bg11.jpg","contentType":"file"},{"name":"home-bg12.jpg","path":"rol/images/home-bg12.jpg","contentType":"file"},{"name":"home-bg13.jpg","path":"rol/images/home-bg13.jpg","contentType":"file"},{"name":"home-bg2.jpg","path":"rol/images/home-bg2.jpg","contentType":"file"},{"name":"home-bg3.jpg","path":"rol/images/home-bg3.jpg","contentType":"file"},{"name":"home-bg4.jpg","path":"rol/images/home-bg4.jpg","contentType":"file"},{"name":"home-bg5.jpg","path":"rol/images/home-bg5.jpg","contentType":"file"},{"name":"home-bg6.jpg","path":"rol/images/home-bg6.jpg","contentType":"file"},{"name":"home-bg7.jpg","path":"rol/images/home-bg7.jpg","contentType":"file"},{"name":"home-bg8.jpg","path":"rol/images/home-bg8.jpg","contentType":"file"},{"name":"home-bg9.jpg","path":"rol/images/home-bg9.jpg","contentType":"file"},{"name":"logo.png","path":"rol/images/logo.png","contentType":"file"},{"name":"portfolio-header.jpg","path":"rol/images/portfolio-header.jpg","contentType":"file"},{"name":"portfolio-img1.jpg","path":"rol/images/portfolio-img1.jpg","contentType":"file"},{"name":"portfolio-img10.jpg","path":"rol/images/portfolio-img10.jpg","contentType":"file"},{"name":"portfolio-img2.jpg","path":"rol/images/portfolio-img2.jpg","contentType":"file"},{"name":"portfolio-img3.jpg","path":"rol/images/portfolio-img3.jpg","contentType":"file"},{"name":"portfolio-img4.jpg","path":"rol/images/portfolio-img4.jpg","contentType":"file"},{"name":"portfolio-img5.jpg","path":"rol/images/portfolio-img5.jpg","contentType":"file"},{"name":"portfolio-img6.jpg","path":"rol/images/portfolio-img6.jpg","contentType":"file"},{"name":"portfolio-img7.jpg","path":"rol/images/portfolio-img7.jpg","contentType":"file"},{"name":"portfolio-img8.jpg","path":"rol/images/portfolio-img8.jpg","contentType":"file"},{"name":"portfolio-img9.jpg","path":"rol/images/portfolio-img9.jpg","contentType":"file"},{"name":"team1.jpg","path":"rol/images/team1.jpg","contentType":"file"},{"name":"team2.jpg","path":"rol/images/team2.jpg","contentType":"file"},{"name":"team3.jpg","path":"rol/images/team3.jpg","contentType":"file"}],"totalCount":32},"rol":{"items":[{"name":"css","path":"rol/css","contentType":"directory"},{"name":"fonts","path":"rol/fonts","contentType":"directory"},{"name":"images","path":"rol/images","contentType":"directory"},{"name":"js","path":"rol/js","contentType":"directory"},{"name":"about.html","path":"rol/about.html","contentType":"file"},{"name":"contact.html","path":"rol/contact.html","contentType":"file"},{"name":"credits.txt","path":"rol/credits.txt","contentType":"file"},{"name":"index.html","path":"rol/index.html","contentType":"file"},{"name":"portfolio.html","path":"rol/portfolio.html","contentType":"file"}],"totalCount":9},"":{"items":[{"name":".settings","path":".settings","contentType":"directory"},{"name":"WEB-INF","path":"WEB-INF","contentType":"directory"},{"name":"javadoc","path":"javadoc","contentType":"directory"},{"name":"rol","path":"rol","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":"web","path":"web","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":".project","path":".project","contentType":"file"},{"name":"AUTHORS","path":"AUTHORS","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.it.md","path":"README.it.md","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"build.xml","path":"build.xml","contentType":"file"},{"name":"javadoc.xml","path":"javadoc.xml","contentType":"file"},{"name":"publiccode.yml","path":"publiccode.yml","contentType":"file"}],"totalCount":15}},"fileTreeProcessingTime":25.706291,"foldersToFetch":[],"repo":{"id":478935862,"defaultBranch":"main","name":"rischi","ownerLogin":"gbetorre","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2022-04-07T10:30:50.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/61409177?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1649327451.348972","canEdit":false,"refType":"branch","currentOid":"9bc1321fe28ed989cfb9a2256b854028906ba1a4"},"path":"rol/images/logo.png","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/gbetorre/rischi/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"logo.png","displayUrl":"https://github.com/gbetorre/rischi/blob/main/rol/images/logo.png?raw=true","headerInfo":{"blobSize":"1.14 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"80107f4","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fgbetorre%2Frischi%2Fblob%2Fmain%2Frol%2Fimages%2Flogo.png","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":true,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/gbetorre/rischi/blob/main/rol/images/logo.png","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/gbetorre/rischi/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/gbetorre/rischi/raw/refs/heads/main/rol/images/logo.png","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"csrf_tokens":{"/gbetorre/rischi/branches":{"post":"NnIRfi67KIjlm28kDdm8xGZWhtBmd2Y6Gr4pg10yfR0kWn_GEJfpTTomZs_c1jXsfJNQNHo-9qBNbSpes0SSoA"},"/repos/preferences":{"post":"E2Lv2q2PYmwkuInR-C20QwBfAHSao7XlZ2q44-9UGRU7EC3pA3ST1WcCel65Y9IjmFuDn8_yYlS0KI4zdc9N4A"}}},"title":"rischi/rol/images/logo.png at main · gbetorre/rischi","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-7d7eb7c71814.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-708ec8ade250.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"accessible_code_button":true,"github_models_repo_integration":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"rol/images":{"items":[{"name":"about-header.jpg","path":"rol/images/about-header.jpg","contentType":"file"},{"name":"about-img.jpg","path":"rol/images/about-img.jpg","contentType":"file"},{"name":"contact-header.jpg","path":"rol/images/contact-header.jpg","contentType":"file"},{"name":"home-bg.jpg","path":"rol/images/home-bg.jpg","contentType":"file"},{"name":"home-bg1.jpg","path":"rol/images/home-bg1.jpg","contentType":"file"},{"name":"home-bg10.jpg","path":"rol/images/home-bg10.jpg","contentType":"file"},{"name":"home-bg11.jpg","path":"rol/images/home-bg11.jpg","contentType":"file"},{"name":"home-bg12.jpg","path":"rol/images/home-bg12.jpg","contentType":"file"},{"name":"home-bg13.jpg","path":"rol/images/home-bg13.jpg","contentType":"file"},{"name":"home-bg2.jpg","path":"rol/images/home-bg2.jpg","contentType":"file"},{"name":"home-bg3.jpg","path":"rol/images/home-bg3.jpg","contentType":"file"},{"name":"home-bg4.jpg","path":"rol/images/home-bg4.jpg","contentType":"file"},{"name":"home-bg5.jpg","path":"rol/images/home-bg5.jpg","contentType":"file"},{"name":"home-bg6.jpg","path":"rol/images/home-bg6.jpg","contentType":"file"},{"name":"home-bg7.jpg","path":"rol/images/home-bg7.jpg","contentType":"file"},{"name":"home-bg8.jpg","path":"rol/images/home-bg8.jpg","contentType":"file"},{"name":"home-bg9.jpg","path":"rol/images/home-bg9.jpg","contentType":"file"},{"name":"logo.png","path":"rol/images/logo.png","contentType":"file"},{"name":"portfolio-header.jpg","path":"rol/images/portfolio-header.jpg","contentType":"file"},{"name":"portfolio-img1.jpg","path":"rol/images/portfolio-img1.jpg","contentType":"file"},{"name":"portfolio-img10.jpg","path":"rol/images/portfolio-img10.jpg","contentType":"file"},{"name":"portfolio-img2.jpg","path":"rol/images/portfolio-img2.jpg","contentType":"file"},{"name":"portfolio-img3.jpg","path":"rol/images/portfolio-img3.jpg","contentType":"file"},{"name":"portfolio-img4.jpg","path":"rol/images/portfolio-img4.jpg","contentType":"file"},{"name":"portfolio-img5.jpg","path":"rol/images/portfolio-img5.jpg","contentType":"file"},{"name":"portfolio-img6.jpg","path":"rol/images/portfolio-img6.jpg","contentType":"file"},{"name":"portfolio-img7.jpg","path":"rol/images/portfolio-img7.jpg","contentType":"file"},{"name":"portfolio-img8.jpg","path":"rol/images/portfolio-img8.jpg","contentType":"file"},{"name":"portfolio-img9.jpg","path":"rol/images/portfolio-img9.jpg","contentType":"file"},{"name":"team1.jpg","path":"rol/images/team1.jpg","contentType":"file"},{"name":"team2.jpg","path":"rol/images/team2.jpg","contentType":"file"},{"name":"team3.jpg","path":"rol/images/team3.jpg","contentType":"file"}],"totalCount":32},"rol":{"items":[{"name":"css","path":"rol/css","contentType":"directory"},{"name":"fonts","path":"rol/fonts","contentType":"directory"},{"name":"images","path":"rol/images","contentType":"directory"},{"name":"js","path":"rol/js","contentType":"directory"},{"name":"about.html","path":"rol/about.html","contentType":"file"},{"name":"contact.html","path":"rol/contact.html","contentType":"file"},{"name":"credits.txt","path":"rol/credits.txt","contentType":"file"},{"name":"index.html","path":"rol/index.html","contentType":"file"},{"name":"portfolio.html","path":"rol/portfolio.html","contentType":"file"}],"totalCount":9},"":{"items":[{"name":".settings","path":".settings","contentType":"directory"},{"name":"WEB-INF","path":"WEB-INF","contentType":"directory"},{"name":"javadoc","path":"javadoc","contentType":"directory"},{"name":"rol","path":"rol","contentType":"directory"},{"name":"src","path":"src","contentType":"directory"},{"name":"web","path":"web","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":".project","path":".project","contentType":"file"},{"name":"AUTHORS","path":"AUTHORS","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.it.md","path":"README.it.md","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"build.xml","path":"build.xml","contentType":"file"},{"name":"javadoc.xml","path":"javadoc.xml","contentType":"file"},{"name":"publiccode.yml","path":"publiccode.yml","contentType":"file"}],"totalCount":15}},"fileTreeProcessingTime":20.293808,"foldersToFetch":[],"incompleteFileTree":false,"repo":{"id":478935862,"defaultBranch":"main","name":"rischi","ownerLogin":"gbetorre","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2022-04-07T10:30:50.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/61409177?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1649327451.348972","canEdit":false,"refType":"branch","currentOid":"9bc1321fe28ed989cfb9a2256b854028906ba1a4"},"path":"rol/images/logo.png","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/gbetorre/rischi/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"logo.png","displayUrl":"https://github.com/gbetorre/rischi/blob/main/rol/images/logo.png?raw=true","headerInfo":{"blobSize":"1.14 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"80107f4","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fgbetorre%2Frischi%2Fblob%2Fmain%2Frol%2Fimages%2Flogo.png","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":true,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/gbetorre/rischi/blob/main/rol/images/logo.png","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/gbetorre/rischi/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/gbetorre/rischi/raw/refs/heads/main/rol/images/logo.png","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"csrf_tokens":{"/gbetorre/rischi/branches":{"post":"j50cx6N-tUemHmcBqiyPwpUL8pDVeaPTcs0f26rT7xq67lUqkZzAyDBm1R9LjFk6kjJxdWSFdpsTBcOm_IBvOA"},"/repos/preferences":{"post":"OTHG-pSjPCgYAT469BP4tQDkyMeYlb68iZ9sU1FwIcJNu1vFoGOHeNZ8Y_RykKvcWydvvCXiVL0rY8ZxgE5w1A"}}},"title":"rischi/rol/images/logo.png at main · gbetorre/rischi","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-7d7eb7c71814.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-708ec8ade250.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"react_blob_overlay":false,"accessible_code_button":true,"github_models_repo_integration":false}}}</script>
   <div data-target="react-app.reactRoot"><style data-styled="true" data-styled-version="5.3.11">.gISSDQ{width:100%;}/*!sc*/
 @media screen and (min-width:544px){.gISSDQ{width:100%;}}/*!sc*/
 @media screen and (min-width:768px){.gISSDQ{width:auto;}}/*!sc*/

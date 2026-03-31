@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html class="html-devise-layout gl-light" lang="en">
+<head>
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1" name="viewport">
+<title>Sign in · GitLab</title>
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="/assets/application-487de60d9ab3205ffe87ebd3b4dad8a80e7fa602d5390d64849d67476445b683.css" />
+<link rel="stylesheet" href="/assets/page_bundles/login-d3d6bc53e95a451be9ab770d7a515d686002ad44c6493bfac5caab63ebe9db94.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-065c52911d70ac846b47cc0f64e7a6e0d3daadd0cd34f5788259712569dc0dc3.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-1a645abe79ac6548485568d8d034b67a35f8417ffba26e5da4b581e79dff7ba7.css" />
+<link rel="stylesheet" href="/assets/application_utilities-be9c243fb45936837f5df8f56b584844abb57127eb153b72a5f74f5fdfcf6388.css" />
+<link rel="stylesheet" href="/assets/tailwind-c4a59d85bb930bf2e7ecc96190d540b832d994119d6a38a97cb684ad82e28053.css" />
+
+
+<link rel="stylesheet" href="/assets/fonts-fae5d3f79948bd85f18b6513a025f863b19636e85b09a1492907eb4b1bb0557b.css" />
+<link rel="stylesheet" href="/assets/highlight/themes/white-1285cce1be88ce2ec9caaa6f50ee58d75ce1412f0c5b019194f2477139509e18.css" />
+
+
+<link rel="preload" href="/assets/application_utilities-be9c243fb45936837f5df8f56b584844abb57127eb153b72a5f74f5fdfcf6388.css" as="style" type="text/css">
+<link rel="preload" href="/assets/application-487de60d9ab3205ffe87ebd3b4dad8a80e7fa602d5390d64849d67476445b683.css" as="style" type="text/css">
+<link rel="preload" href="/assets/highlight/themes/white-1285cce1be88ce2ec9caaa6f50ee58d75ce1412f0c5b019194f2477139509e18.css" as="style" type="text/css">
+
+
+
+
+<script src="/assets/webpack/runtime.435d5b85.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.3c711c2b.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/graphql.e1f11a07.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.dashboard.milestones.show-pages.-0be646db.f2b9e702.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.groups.boards-pages.groups.issue-9703a78b.4e2b4f67.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.groups.boards-pages.groups.issue-b7fd6ac6.2cc0562b.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.new-pages.import.gitlab_projects.new-pages.import.manifest.new-pages.projects.n-44c6c18e.1642148b.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.search.show-super_sidebar.9facb163.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/super_sidebar.1bd861b7.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.sessions-pages.registrations.new-pages.sessions-pages.sessions.new.8990d3bd.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.registrations.new-pages.sessions.new-pages.user_settings.profiles.show.14b01379.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.sessions.new.b29824a2.chunk.js" defer="defer"></script>
+
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="2XXiqlU1qEyuK_xp7cO4Fg1LVbwuE53dzSVMw7PV4TZ1-xnOzaKm_ivyL0IFI6u2j9dxMdzXsFtKaMvTEVmtoA" />
+<meta name="csp-nonce" />
+<meta name="action-cable-url" content="/-/cable" />
+<link href="/-/manifest.json" rel="manifest">
+<link rel="icon" type="image/png" href="/uploads/-/system/appearance/favicon/1/LogoGit1.png" id="favicon" data-original-href="/uploads/-/system/appearance/favicon/1/LogoGit1.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/uploads/-/system/appearance/pwa_icon/1/LogoGit1.png?width=192" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/uploads/-/system/appearance/pwa_icon/1/LogoGit1.png?width=192" sizes="192x192" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/uploads/-/system/appearance/pwa_icon/1/LogoGit1.png?width=512" sizes="512x512" />
+<link href="/search/opensearch.xml" rel="search" title="Search GitLab" type="application/opensearchdescription+xml">
+
+
+
+
+<meta content="GitLab Community Edition" name="description">
+<meta content="#ececef" name="theme-color">
+</head>
+
+<body class="gl-h-full login-page gl-browser-generic gl-platform-other" data-page="sessions:new" data-testid="login-page">
+
+<script>
+//<![CDATA[
+gl = window.gl || {};
+gl.client = {"isGeneric":true,"isOther":true};
+
+
+//]]>
+</script>
+
+
+
+
+<div class="gl-h-full gl-display-flex gl-flex-wrap">
+<div class="container gl-align-self-center">
+<div class="content">
+<div class="flash-container flash-container-page sticky" data-testid="flash-container">
+<div class="gl-alert flash-alert gl-alert-danger" data-testid="alert-danger" role="alert">
+<div class="gl-alert-icon-container">
+<svg class="s16 gl-alert-icon gl-alert-icon-no-title" data-testid="error-icon"><use href="/assets/icons-454317f5123bdb93dcb695c6092c458fb0ec6c862d0a56857aefa1c73469f743.svg#error"></use></svg>
+</div>
+<button class="gl-button btn btn-icon btn-sm btn-default btn-default-tertiary js-close gl-dismiss-btn " aria-label="Dismiss" type="button"><svg class="s16 gl-icon gl-button-icon " data-testid="close-icon"><use href="/assets/icons-454317f5123bdb93dcb695c6092c458fb0ec6c862d0a56857aefa1c73469f743.svg#close"></use></svg>
+
+</button>
+<div class="gl-alert-content" role="alert">
+<div class="gl-alert-body">
+You need to sign in or sign up before continuing.
+</div>
+</div>
+</div>
+<div id="js-global-alerts"></div>
+</div>
+
+<div class="gl-my-5">
+<div class="col-sm-12 gl-text-center">
+<img alt="GitLab Community Edition" class="gl-invisible gl-h-10 js-portrait-logo-detection lazy" data-src="/uploads/-/system/appearance/logo/1/LogoGit1.png" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<h1 class="mb-3 gl-font-size-h2">
+GitLab Community Edition
+</h1>
+</div>
+<div class="gl-w-full gl-sm-w-half gl-ml-auto gl-mr-auto bar">
+
+<div class="js-non-oauth-login">
+<form class="gl-show-field-errors js-arkose-labs-form" aria-live="assertive" data-testid="sign-in-form" action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1oEskGdF4Enx3WQGbmHJ_I_PTZp8aP3sybks0jLrG7F6D9f0_9Lu-3QEty2GgdpcDVNpF46s0GpO9KvCkGdXJw" autocomplete="off" /><div class="form-group">
+<label for="user_login">Username or primary email</label>
+<input class="form-control gl-form-input js-username-field" autocomplete="username" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-testid="username-field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label for="user_password">Password</label>
+<input class="form-control gl-form-input js-password" data-id="user_password" data-name="user[password]" data-testid="password-field" type="password" name="user[password]" id="user_password" />
+<div class="form-text gl-text-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div class="form-group">
+</div>
+<div class="gl-mb-3">
+<div class="gl-form-checkbox custom-control custom-checkbox">
+<input name="user[remember_me]" type="hidden" value="0" autocomplete="off" /><input autocomplete="off" class="custom-control-input" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<label class="custom-control-label" for="user_remember_me"><span>Remember me</span></label>
+</div>
+
+</div>
+<button class="gl-button btn btn-block btn-md btn-confirm js-sign-in-button" data-testid="sign-in-button" type="submit"><span class="gl-button-text">
+Sign in
+
+</span>
+
+</button></form>
+</div>
+<div class="gl-mt-3 gl-text-center">
+Don&#39;t have an account yet?
+<a data-testid="register-link" data-track-action="click_register_from_sign_in_page" href="/users/sign_up">Register now</a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class="footer-container gl-w-full gl-align-self-end">
+<hr class="gl-m-0">
+<div class="container gl-py-5 gl-display-flex gl-justify-content-space-between gl-align-items-flex-start">
+<div class="gl-hidden md:gl-flex gl-gap-5 gl-flex-wrap">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com">About GitLab</a>
+<a target="_blank" class="text-nowrap" rel="noopener noreferrer" href="https://forum.gitlab.com">Community forum</a>
+</div>
+<div class="js-language-switcher" data-locales="[{&quot;value&quot;:&quot;en&quot;,&quot;percentage&quot;:100,&quot;text&quot;:&quot;English&quot;},{&quot;value&quot;:&quot;ja&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;日本語&quot;},{&quot;value&quot;:&quot;fr&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;français&quot;},{&quot;value&quot;:&quot;de&quot;,&quot;percentage&quot;:99,&quot;text&quot;:&quot;Deutsch&quot;},{&quot;value&quot;:&quot;zh_TW&quot;,&quot;percentage&quot;:98,&quot;text&quot;:&quot;繁體中文 (台灣)&quot;},{&quot;value&quot;:&quot;zh_CN&quot;,&quot;percentage&quot;:92,&quot;text&quot;:&quot;简体中文&quot;}]"></div>
+
+</div>
+</div>
+
+
+</div>
+</body>
+</html>

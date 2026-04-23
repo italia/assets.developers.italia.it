@@ -40,7 +40,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"Uh8J2aHKSLVCHwAReBOCDPuvrZUBi4bQxyxi6EDUJDiUiIz4YBpcHkB0fwDnTJKjbE8x3vOh4_Hjkgdbc6EVHA","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"dz0Ewh_uenV6TxHp2uNXpY0lovh8u0MvLY5xyPNzGet4ew1dn97aQbD8_iBOAKlw9EHQzhOr3wgCto5jiOsQNQ","x-gitlab-feature-category":"source_code_management"};
   const url = `https://oros-git.regione.puglia.it/api/graphql`
 
   const opts = {
@@ -115,7 +115,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 <meta content="https://oros-git.regione.puglia.it/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="wvWV3IK3YODgW-wsGAGrpOzh_kkziKsN8GqADXXge_8EYhD9Q2d0S-Iwkz2HXrsLewFiAsGizizU1OW-RpVK2w" />
+<meta name="csrf-token" content="ftGnrnSFmo18cFKojsbp9mKA7ECdP4lfm1D8o8hkUXBxl64x9LU6ubbDvWEaJRcjG-SedvIvFXi0aAMIs_xYrg" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
@@ -301,7 +301,7 @@ Permalink
 <ul class="blob-commit-info">
 <li class="commit flex-row js-toggle-container" id="commit-b7d3374a">
 <div class="avatar-cell d-none d-sm-block">
-<a href="/mcalamita"><img alt="Massimiliano Calamita&#39;s avatar" src="https://www.gravatar.com/avatar/028cafea28bf3bf5f987314c2597f93f?s=80&amp;d=identicon" class="avatar s40 gl-display-none gl-sm-display-inline-block" title="Massimiliano Calamita"></a>
+<a href="/mcalamita"><img alt="Massimiliano Calamita&#39;s avatar" src="https://secure.gravatar.com/avatar/028cafea28bf3bf5f987314c2597f93f?s=80&amp;d=identicon" class="avatar s40 gl-display-none gl-sm-display-inline-block" title="Massimiliano Calamita"></a>
 </div>
 <div class="commit-detail flex-list gl-display-flex gl-justify-content-space-between gl-align-items-center gl-flex-grow-1 gl-min-w-0">
 <div class="commit-content" data-testid="commit-content">

@@ -49,7 +49,7 @@ window.gon={};
 
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="wboBebk1OayGZbE836BLQxcQgKjv7GM8hRcRY7leegFU3i-vEEoyQxkFFxBrfeYjCwO0gJbSCvJF7LRbzkePxQ" />
+<meta name="csrf-token" content="aPsDXsT6OX7H3NgwN230Y6f_BMxF5AuFpc-wQmcoPs1OSb8MczTRyv50BOnlvBAbsgBAMugqeV-wgsaQZ5TVzQ" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
@@ -110,7 +110,7 @@ GitLab Community Edition
 <div class="gl-w-full gl-sm-w-half gl-ml-auto gl-mr-auto bar">
 
 <div class="js-non-oauth-login">
-<form class="gl-show-field-errors js-arkose-labs-form" aria-live="assertive" data-testid="sign-in-form" action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7pqsD7hxISYFvrZaS6EUz1Axd6lYiqfPu52Hj9qk4NJ7_oLZEQ4qyZreEHb_fLmvTCJDgSG0zgF7ZiK3rb0VFg" autocomplete="off" /><div class="form-group">
+<form class="gl-show-field-errors js-arkose-labs-form" aria-live="assertive" data-testid="sign-in-form" action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5J6BnZDGRT14UGNPx_6DntAxirJuCjwjxr8eSOWksGrCLD3PJwitiUH4v5YVL2fmxc7OTMPETvnT8mia5Rhbag" autocomplete="off" /><div class="form-group">
 <label for="user_login">Username or primary email</label>
 <input class="form-control gl-form-input js-username-field" autocomplete="username" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="This field is required." data-testid="username-field" type="text" name="user[login]" id="user_login" />
 </div>

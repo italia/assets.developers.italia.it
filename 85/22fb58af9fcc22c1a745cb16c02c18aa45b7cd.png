@@ -7,7 +7,7 @@
 
     data-target-workspace-uuid="1f14c54e-078c-4627-8379-fc2c3963f6f7"
  />
-    <meta name="frontbucket-version" content="2665b4af4c349af220d3fe8bf738634e6dfb232d">
+    <meta name="frontbucket-version" content="fb4002d99ab7c0f54380a63bb43648f8a20eb87d">
     <meta name="frontbucket-environment" content="bifrost_production">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -21,8 +21,8 @@
 
 
 
-<meta name="bitbucket-commit-hash" content="f62e6d258565">
-<meta name="bb-app-node" content="4b75645ba61a">
+<meta name="bitbucket-commit-hash" content="ffd8b7523f9d">
+<meta name="bb-app-node" content="96f13c74ff52">
 <meta name="bb-dce-env" content="micros">
 <meta name="bb-view-name" content="bitbucket.apps.repo2.views.SourceView">
 <meta name="ignore-whitespace" content="False">
@@ -36,11 +36,11 @@
 
 <meta name="theme-color" content="#0049B0">
 <meta name="msapplication-TileColor" content="#0052CC">
-<meta name="msapplication-TileImage" content="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/f62e6d258565/img/logos/bitbucket/mstile-150x150.png">
-<link rel="apple-touch-icon" sizes="180x180" type="image/png" href="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/f62e6d258565/img/logos/bitbucket/apple-touch-icon.png">
+<meta name="msapplication-TileImage" content="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/ffd8b7523f9d/img/logos/bitbucket/mstile-150x150.png">
+<link rel="apple-touch-icon" sizes="180x180" type="image/png" href="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/ffd8b7523f9d/img/logos/bitbucket/apple-touch-icon.png">
 
 
-<link rel="icon" sizes="192x192" type="image/png" href="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/f62e6d258565/img/logos/bitbucket/android-chrome-old-192x192.png">
+<link rel="icon" sizes="192x192" type="image/png" href="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/ffd8b7523f9d/img/logos/bitbucket/android-chrome-old-192x192.png">
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-<link rel="mask-icon" href="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/f62e6d258565/img/logos/bitbucket/safari-pinned-tab.svg" color="#0052CC">
+<link rel="mask-icon" href="https://bbc-object-storage--frontbucket.us-east-1.prod.public.atl-paas.net/ffd8b7523f9d/img/logos/bitbucket/safari-pinned-tab.svg" color="#0052CC">
 
 
 <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="Bitbucket">
@@ -57,9 +57,9 @@
     <meta name="description" content="">
     <meta name="bb-single-page-app" content="true">
     
-      <link rel="stylesheet" href="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net/assets/vendor.2665b4af4c349af220d3fe8bf738634e6dfb232d.css">
+      <link rel="stylesheet" href="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net/assets/vendor.fb4002d99ab7c0f54380a63bb43648f8a20eb87d.css">
     
-      <link rel="stylesheet" href="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net/assets/all.compiled.2665b4af4c349af220d3fe8bf738634e6dfb232d.css">
+      <link rel="stylesheet" href="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net/assets/all.compiled.fb4002d99ab7c0f54380a63bb43648f8a20eb87d.css">
     
     
     
@@ -76,7 +76,7 @@
   as="style" crossorigin />
     
 
-    <script nonce="FadcbcPndFE6urNm25f3kw==">
+    <script nonce="dSA2QnoT1BkmQQxmnjG+LA==">
 
 if (window.performance) {
 
@@ -100,7 +100,7 @@ if (window.performance) {
   </head>
   <body>
     <div id="root">
-    <script nonce="FadcbcPndFE6urNm25f3kw==">
+    <script nonce="dSA2QnoT1BkmQQxmnjG+LA==">
       window.__webpack_public_path__ = "https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net";
     </script>
     
@@ -109,26 +109,26 @@ if (window.performance) {
     </div>
     
     <link rel="preconnect" href="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net"  />
-    <script nonce="FadcbcPndFE6urNm25f3kw==">
+    <script nonce="dSA2QnoT1BkmQQxmnjG+LA==">
       
-        window.__sentry__ = {"dsn": "https://2dcda83904474d8c86928ebbfa1ab294@o55978.ingest.sentry.io/1480772", "environment": "bifrost_production", "tags": {"dc_location": "Micros-3", "micros_deployment_id": "a9j64rgigikat6et", "micros_service": "bbc-website", "micros_envtype": "prod", "micros_service_version": "202350", "micros_instance_id": "i-0cf2168903684606d", "micros_zone": "us-east-1.prod.atl-paas.net", "revision": "f62e6d258565"}};
+        window.__sentry__ = {"dsn": "https://2dcda83904474d8c86928ebbfa1ab294@o55978.ingest.sentry.io/1480772", "environment": "bifrost_production", "tags": {"dc_location": "Micros-3", "micros_deployment_id": "odesk787pb2pq4j6", "micros_service": "bbc-website", "micros_envtype": "prod", "micros_service_version": "202667", "micros_instance_id": "i-020b044c811baa5fb", "micros_zone": "us-east-1.prod.atl-paas.net", "revision": "ffd8b7523f9d"}};
       
       
-        window.__app_data__ = {"tenantId": "1f14c54e-078c-4627-8379-fc2c3963f6f7", "features": {"bbc_nav_v4": true, "pipelines-test-management": true, "bitbucket_tests_fix_flaky_action_enabled": true, "bbc-merge-queue-enabled": true, "bbc-packages-maven-version-link": true, "bbc-packages-immutable-tags": true, "bitbucket_pipelines_agentic_pipelines_menu": true}, "links": {"backButtonUrl": null, "overviewUrl": "/Comune_Venezia/workspace/overview/"}, "initialContext": {"workspace": {"type": "workspace", "uuid": "{1f14c54e-078c-4627-8379-fc2c3963f6f7}", "name": "ComunediVenezia", "slug": "Comune_Venezia", "is_private": false, "is_privacy_enforced": false, "links": {"avatar": {"href": "https://bitbucket.org/workspaces/Comune_Venezia/avatar/?ts=1558446024"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/"}, "self": {"href": "https://bitbucket.org/!api/2.0/workspaces/Comune_Venezia"}}, "created_on": "2019-05-21T13:40:24.481924+00:00", "forking_mode": "allow_forks"}, "repository": {"type": "repository", "full_name": "Comune_Venezia/iris", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/repositories/Comune_Venezia/iris"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/iris"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B20e00f7a-923c-4596-9d9b-32e089a1e466%7D?ts=default"}}, "name": "IRIS", "slug": "iris", "is_private": false, "uuid": "{20e00f7a-923c-4596-9d9b-32e089a1e466}"}, "project": {"type": "project", "key": "PROJ", "uuid": "{6e0229d8-0140-4213-8213-76fcc50e17b8}", "is_private": false, "name": "Untitled project", "description": "Project created by Bitbucket for Venis S.p.A.", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/workspaces/Comune_Venezia/projects/PROJ"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/Comune_Venezia/workspace/projects/PROJ/avatar/32?ts=1558446152"}}, "created_on": "2019-05-21T13:42:32.980270+00:00", "updated_on": "2019-05-21T13:42:32.980320+00:00", "has_publicly_visible_repos": true}}, "frontbucket_version": "2665b4af4c349af220d3fe8bf738634e6dfb232d", "frontbucket_environment": "bifrost_production"};
+        window.__app_data__ = {"tenantId": "1f14c54e-078c-4627-8379-fc2c3963f6f7", "features": {"bbc_nav_v4": true, "pipelines-test-management": true, "bitbucket_tests_fix_flaky_action_enabled": true, "bbc-merge-queue-enabled": true, "bbc-packages-maven-version-link": true, "bbc-packages-immutable-tags": true, "bitbucket_pipelines_agentic_pipelines_menu": true}, "links": {"backButtonUrl": null, "overviewUrl": "/Comune_Venezia/workspace/overview/"}, "initialContext": {"workspace": {"type": "workspace", "uuid": "{1f14c54e-078c-4627-8379-fc2c3963f6f7}", "name": "ComunediVenezia", "slug": "Comune_Venezia", "is_private": false, "is_privacy_enforced": false, "links": {"avatar": {"href": "https://bitbucket.org/workspaces/Comune_Venezia/avatar/?ts=1558446024"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/"}, "self": {"href": "https://bitbucket.org/!api/2.0/workspaces/Comune_Venezia"}}, "created_on": "2019-05-21T13:40:24.481924+00:00", "forking_mode": "allow_forks"}, "repository": {"type": "repository", "full_name": "Comune_Venezia/iris", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/repositories/Comune_Venezia/iris"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/iris"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B20e00f7a-923c-4596-9d9b-32e089a1e466%7D?ts=default"}}, "name": "IRIS", "slug": "iris", "is_private": false, "uuid": "{20e00f7a-923c-4596-9d9b-32e089a1e466}"}, "project": {"type": "project", "key": "PROJ", "uuid": "{6e0229d8-0140-4213-8213-76fcc50e17b8}", "is_private": false, "name": "Untitled project", "description": "Project created by Bitbucket for Venis S.p.A.", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/workspaces/Comune_Venezia/projects/PROJ"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/Comune_Venezia/workspace/projects/PROJ/avatar/32?ts=1558446152"}}, "created_on": "2019-05-21T13:42:32.980270+00:00", "updated_on": "2019-05-21T13:42:32.980320+00:00", "has_publicly_visible_repos": true}}, "frontbucket_version": "fb4002d99ab7c0f54380a63bb43648f8a20eb87d", "frontbucket_environment": "bifrost_production"};
       
       
         window.__initial_state__ = {"global": {"geoip_country": "UNKNOWN", "is_mobile_user_agent": false, "site_message": "", "needs_marketing_consent": false, "marketing_consent_locale": null, "whats_new_feed": "https://atlassianblog.wpengine.com/wp-json/wp/v2/posts?tags=11972&context=embed&per_page=6&orderby=date&order=desc", "locale": "en", "path": "/Comune_Venezia/iris/src/master/raw/HEAD/public/banner.png", "isFocusedTask": false, "focusedTaskBackButtonUrl": null, "features": {"lookup-pr-approvers-from-prs": true, "log-asap-errors": true, "provisioning-install-pipelines-addon": true, "fd-prs-client-cache-fallback": true, "read-only-message-migrations": true, "provisioning-skip-workspace-creation": true, "uninstall-dvcs-addon-only-when-jira-is-removed": true, "auth-flow-adg3": true, "workspace-member-set-last-accessed": true, "use-elasticache-lsn-storage": true, "whitelisted_throttle_exemption": true, "bbc-pride-logo": false, "create-workspace-show-recaptcha": true, "platform-team25-app-icon-tiles": false, "lazy-diffstat": false, "bbc-rovo-data-onboarding-ux": true, "pipelines-test-management": true, "bbc-merge-queue-enabled": true, "bbc_nav_v4": true, "bbc-frontbucket-new-code-search": false, "workspace-ai-enabled": false, "workspace-settings-ai-editor-features-enabled": false, "workspace-settings-ai-rovo-chat-enabled": false, "custom-merge-checks-activated": false, "pr-review-groups": false, "bbc-packages-maven-version-link": true, "bbc-packages-immutable-tags": true, "bbc-packages-nuget-pypi-ui": false, "bbc-forge-menu-item-fields": false}, "flags": [], "horizontalNavigationItems": {"mainItems": [{"id": "pullrequests-tab", "label": "Pull requests", "tab_name": "pullrequests", "anchor": true, "weight": 140, "is_premium": null, "is_beta": null, "is_new": null, "url": "/Comune_Venezia/workspace/pull-requests/", "target": "_self", "icon_class": "", "badge_label": null, "matching_url_prefixes": [], "analytics_label": "pullrequests", "analytics_payload": {}, "is_client_link": true, "is_external_link": false, "is_dropdown_item": false, "test_id": null, "children": [], "type": "menu_item", "icon": ""}, {"id": "repositories-tab", "label": "Repositories", "tab_name": "repositories", "anchor": true, "weight": 160, "is_premium": null, "is_beta": null, "is_new": null, "url": "/Comune_Venezia/workspace/repositories/", "target": "_self", "icon_class": "", "badge_label": null, "matching_url_prefixes": [], "analytics_label": "repositories", "analytics_payload": {}, "is_client_link": true, "is_external_link": false, "is_dropdown_item": true, "test_id": null, "children": [], "type": "menu_item", "icon": ""}, {"id": "projects-tab", "label": "Projects", "tab_name": "projects", "anchor": true, "weight": 200, "is_premium": null, "is_beta": null, "is_new": null, "url": "/Comune_Venezia/workspace/projects/", "target": "_self", "icon_class": "", "badge_label": null, "matching_url_prefixes": [], "analytics_label": "projects", "analytics_payload": {}, "is_client_link": true, "is_external_link": false, "is_dropdown_item": true, "test_id": null, "children": [], "type": "menu_item", "icon": ""}], "secondaryItems": [], "settingsItems": []}, "targetUser": {"display_name": "ComunediVenezia", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/users/%7B1f14c54e-078c-4627-8379-fc2c3963f6f7%7D"}, "avatar": {"href": "https://secure.gravatar.com/avatar/b0da7afc3aa73248e12d0e9a24280438?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FC-4.png"}, "html": {"href": "https://bitbucket.org/%7B1f14c54e-078c-4627-8379-fc2c3963f6f7%7D/"}}, "created_on": "2019-05-21T13:40:24.057920+00:00", "is_active": true, "type": "user", "uuid": "{1f14c54e-078c-4627-8379-fc2c3963f6f7}", "has_2fa_enabled": null, "properties": {}, "is_staff": false, "account_id": "5ce3ff8f254e450fd8d24d71", "nickname": "Comune_Venezia", "account_status": "active", "location": null, "zoneinfo": "Europe/Rome", "organization": null, "department": null, "job_title": null}, "targetFeatures": {"lookup-pr-approvers-from-prs": true, "log-asap-errors": true, "provisioning-install-pipelines-addon": true, "fd-prs-client-cache-fallback": true, "view-source-filtering-upon-timeout": true, "read-only-message-migrations": true, "provisioning-skip-workspace-creation": true, "fd-repository-page-loading-error-guard": true, "uninstall-dvcs-addon-only-when-jira-is-removed": true, "auth-flow-adg3": true, "workspace-member-set-last-accessed": true, "use-elasticache-lsn-storage": true, "whitelisted_throttle_exemption": true}}, "section": {"repository": {"cloneProtocol": "https", "currentRepository": {"type": "repository", "full_name": "Comune_Venezia/iris", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/repositories/Comune_Venezia/iris"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/iris"}, "avatar": {"href": "https://bytebucket.org/ravatar/%7B20e00f7a-923c-4596-9d9b-32e089a1e466%7D?ts=default"}, "clone": [{"name": "https", "href": "https://bitbucket.org/Comune_Venezia/iris.git"}, {"name": "ssh", "href": "git@bitbucket.org:Comune_Venezia/iris.git"}]}, "name": "IRIS", "slug": "iris", "description": "", "scm": "git", "website": null, "owner": {"display_name": "ComunediVenezia", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/users/%7B1f14c54e-078c-4627-8379-fc2c3963f6f7%7D"}, "avatar": {"href": "https://secure.gravatar.com/avatar/b0da7afc3aa73248e12d0e9a24280438?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FC-4.png"}, "html": {"href": "https://bitbucket.org/%7B1f14c54e-078c-4627-8379-fc2c3963f6f7%7D/"}}, "type": "user", "uuid": "{1f14c54e-078c-4627-8379-fc2c3963f6f7}", "account_id": "5ce3ff8f254e450fd8d24d71", "nickname": "Comune_Venezia"}, "workspace": {"type": "workspace", "uuid": "{1f14c54e-078c-4627-8379-fc2c3963f6f7}", "name": "ComunediVenezia", "slug": "Comune_Venezia", "is_private": false, "is_privacy_enforced": false, "links": {"avatar": {"href": "https://bitbucket.org/workspaces/Comune_Venezia/avatar/?ts=1558446024"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/"}, "self": {"href": "https://bitbucket.org/!api/2.0/workspaces/Comune_Venezia"}}, "created_on": "2019-05-21T13:40:24.481924+00:00", "forking_mode": "allow_forks"}, "is_private": false, "project": {"type": "project", "owner": {"display_name": "ComunediVenezia", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/users/%7B1f14c54e-078c-4627-8379-fc2c3963f6f7%7D"}, "avatar": {"href": "https://secure.gravatar.com/avatar/b0da7afc3aa73248e12d0e9a24280438?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FC-4.png"}, "html": {"href": "https://bitbucket.org/%7B1f14c54e-078c-4627-8379-fc2c3963f6f7%7D/"}}, "type": "user", "uuid": "{1f14c54e-078c-4627-8379-fc2c3963f6f7}", "account_id": "5ce3ff8f254e450fd8d24d71", "nickname": "Comune_Venezia"}, "workspace": {"type": "workspace", "uuid": "{1f14c54e-078c-4627-8379-fc2c3963f6f7}", "name": "ComunediVenezia", "slug": "Comune_Venezia", "links": {"avatar": {"href": "https://bitbucket.org/workspaces/Comune_Venezia/avatar/?ts=1558446024"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/"}, "self": {"href": "https://bitbucket.org/!api/2.0/workspaces/Comune_Venezia"}}}, "key": "PROJ", "uuid": "{6e0229d8-0140-4213-8213-76fcc50e17b8}", "is_private": false, "name": "Untitled project", "description": "Project created by Bitbucket for Venis S.p.A.", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/workspaces/Comune_Venezia/projects/PROJ"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/workspace/projects/PROJ"}, "avatar": {"href": "https://bitbucket.org/Comune_Venezia/workspace/projects/PROJ/avatar/32?ts=1558446152"}}, "created_on": "2019-05-21T13:42:32.980270+00:00", "updated_on": "2019-05-21T13:42:32.980320+00:00", "has_publicly_visible_repos": true}, "fork_policy": "allow_forks", "updated_on": "2019-11-27T11:02:43.467681+00:00", "language": "", "uuid": "{20e00f7a-923c-4596-9d9b-32e089a1e466}", "mainbranch": {"name": "master"}, "state": "available", "landing_page": "source"}, "mirrors": [], "sizeLimits": {"hard": 4294967296, "soft": 2147483648.0, "readOnly": 10737418240.0}, "override_settings": {"default_merge_strategy": false, "branching_model": false}}}, "repository": {"source": {"section": {"hash": "ea14b10b553066d9f23109d7e5b8563f041751eb", "ref": {"name": "master", "target": {"hash": "ea14b10b553066d9f23109d7e5b8563f041751eb", "links": {"self": {"href": "https://bitbucket.org/!api/2.0/repositories/Comune_Venezia/iris/commit/ea14b10b553066d9f23109d7e5b8563f041751eb"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/iris/commits/ea14b10b553066d9f23109d7e5b8563f041751eb"}}, "type": "commit"}, "links": {"self": {"href": "https://bitbucket.org/!api/2.0/repositories/Comune_Venezia/iris/refs/branches/master"}, "html": {"href": "https://bitbucket.org/Comune_Venezia/iris/branch/master"}}}, "atRef": null}}}};
       
       window.__settings__ = {"ADMINHUB_BASE_URL": "https://admin.atlassian.com", "API_CANON_URL": "https://api.bitbucket.org", "CANON_URL": "https://bitbucket.org", "LOGIN_URL": "/account/signin/", "SOCIAL_AUTH_ATLASSIANID_LOGIN_PROMPT_URL": "https://id.atlassian.com/login", "SOCIAL_AUTH_ATLASSIANID_LOGOUT_URL": "https://id.atlassian.com/logout", "SOCIAL_AUTH_ATLASSIANID_PROFILE_URL": "https://id.atlassian.com/manage-profile/", "ATLASSIANID_LOGIN_URL": "https://id.atlassian.com/login", "ATLASSIANID_LOGOUT_URL": "https://id.atlassian.com/logout", "ATLASSIANID_MANAGE_PROFILE_URL": "https://id.atlassian.com/manage-profile/", "MARKETPLACE_TERMS_OF_USE_URL": null, "CONSENT_HUB_FRONTEND_BASE_URL": "https://preferences.atlassian.com", "EMOJI_STANDARD_BASE_URL": "https://bitbucket.org/gateway/api/emoji/", "STATUSPAGE_URL": "https://bitbucket.status.atlassian.com/", "RECAPTCHA_PUBLIC_KEY": "6LcRaMMkAAAAAFB-7L-4-1-mdLIrOMAP4H5asuWK", "WAC_CREATE_WORKSPACE_URL": "https://www.atlassian.com/try/cloud/signup?bundle=bitbucket", "ATLASSIAN_PUBSUB_CONNECT_URL": "https://bitbucket.org/gateway/api/bbc-aps/subscriptions", "AGG_WEBSOCKET_SUBSCRIPTIONS_PATH": "/gateway/api/graphql/subscriptions"};
-      window.__webpack_nonce__ = 'FadcbcPndFE6urNm25f3kw==';
+      window.__webpack_nonce__ = 'dSA2QnoT1BkmQQxmnjG+LA==';
       window.isInitialLoadApdex = true;
       
       
     </script>
     
-      <script nonce="FadcbcPndFE6urNm25f3kw==" src="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net/assets/ajs.2665b4af4c349af220d3fe8bf738634e6dfb232d.js"></script>
+      <script nonce="dSA2QnoT1BkmQQxmnjG+LA==" src="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net/assets/ajs.fb4002d99ab7c0f54380a63bb43648f8a20eb87d.js"></script>
     
-      <script nonce="FadcbcPndFE6urNm25f3kw==" src="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net/assets/app.2665b4af4c349af220d3fe8bf738634e6dfb232d.js"></script>
+      <script nonce="dSA2QnoT1BkmQQxmnjG+LA==" src="https://bbc-frontbucket-static.prod-east.frontend.public.atl-paas.net/assets/app.fb4002d99ab7c0f54380a63bb43648f8a20eb87d.js"></script>
     
   </body>
 </html>

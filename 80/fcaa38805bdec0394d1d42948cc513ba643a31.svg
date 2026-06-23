@@ -54,7 +54,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"3CvOqYY0h6yL8vd-Xdj2oOgdJVkQH0xTRHV-Z4GjiUi3A_yqGc2oksc9NyIeswzf-N-BwUlreiq4wniCP7U1rA","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"zWtHylkkir1uHRbCRXWkwPk6foolj2K88wdzQu9LrDc8B0Hrbke9T8IrkTZrqfqVPHEQ-3ZoXpdCNiPP5f714Q","x-gitlab-feature-category":"source_code_management"};
   const url = `https://oros-git.regione.puglia.it/api/graphql`
 
   const opts = {
@@ -99,7 +99,7 @@ if (gl.startup_graphql_calls && window.fetch) {
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"oros-git.regione.puglia.it:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-7","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KVPJEA6CNE56F78F0A1CHMX7","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-06-22T04:27:07.304+02:00"}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-7","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01KVS4S8H89F8A6G5FG6621RGT","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-06-23T04:26:09.320+02:00"}};
 gl.snowplowPseudonymizedPageUrl = "https://oros-git.regione.puglia.it/namespace1048/project397/-/blob/:repository_path";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -146,7 +146,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://oros-git.regione.puglia.it/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="iznsGYaxxrPym8IjOq90wEVJeK6p-tAzw85-fE8LvtngEd4aGUjpjb5UAn95xI6_VYvcNvCO5ko_eXiZ8R0CPQ" />
+<meta name="csrf-token" content="QDDHS6aiI19QbPEXI9f7Hfug_dH3KzD0pWiXLbD39y6xXMFqkcEUrfxaduMNC6VIPuuToKTMDN8UWcegukKu-A" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">

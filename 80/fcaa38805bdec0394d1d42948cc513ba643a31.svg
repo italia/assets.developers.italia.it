@@ -54,7 +54,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"8_0NfT18lleJbYgBCQrbUKuttc3qE467oGVp-ppblLc8DANH_9LV6AYh76Ku0xYqKQtOSJGIwGbucgTW-RDluQ","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"3cirfCgyILaNBQ_kWWXbFNd901-PA3WJYBEOtyZZFXNj-HnSIRS1Xku_ZG0UTbg8yu0lR_iwJ-OMGsJkuWlHxg","x-gitlab-feature-category":"source_code_management"};
   const url = `https://oros-git.regione.puglia.it/api/graphql`
 
   const opts = {
@@ -92,14 +92,14 @@ if (gl.startup_graphql_calls && window.fetch) {
 <link rel="stylesheet" href="/assets/highlight/themes/white-d436882f650831f756a6394bdaa66486d5ef99218601d4839f4d640558a4f307.css" media="(prefers-color-scheme: light)" />
 <link rel="stylesheet" href="/assets/highlight/themes/dark-9afe7e06099105c59ea8fe5379843ddf5c5dfcb3cc523eed3a9d4147f6ba7c5b.css" media="(prefers-color-scheme: dark)" />
 
-<script src="/assets/webpack/runtime.65649b9e.bundle.js" defer="defer"></script>
-<script src="/assets/webpack/main.ccaa68c2.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/runtime.cc347b1c.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.4d208969.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/tracker.3bba319e.chunk.js" defer="defer"></script>
 <script>
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"oros-git.regione.puglia.it:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-7","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M11HBF2ZSP289TXTPQC0YH8S","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-08-27T13:58:13.309+02:00"}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-7","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M148HKA88JF2YXVF45XMN1JK","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-08-28T15:22:00.371+02:00"}};
 gl.snowplowPseudonymizedPageUrl = "https://oros-git.regione.puglia.it/namespace1048/project397/-/blob/:repository_path";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -116,21 +116,21 @@ gl.onlySendDuoEvents = false;
 
 
 <script src="/assets/webpack/commons-pages.search.show-super_sidebar.b3610a2f.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/super_sidebar.a36fbd92.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.alert_management.details-pages.project-2589d178.925bc2ce.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/super_sidebar.19b55e37.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.alert_management.details-pages.project-2589d178.6aa504b8.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.admin.application_settings-pages.admin.application_settings.appearances.preview_sign_i-489f33f7.b35a3019.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.admin.impersonation_tokens-pages.groups.issues-pages.groups.merge_requests-pages.group-5be7a22a.fc0cb7ea.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.import.bitbucket_server.new-pages.import.gitea.new-pages.import.gitlab_projects.new-pa-0ee6e2d3.dbc2858a.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.edit-pages.projects.sni-42df7d4c.3c670189.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.a539901e.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.5c4bc050.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.projects.blob.edit-pages.projects.blob.new-pages.projects.blob.show-pages.projects.sho-ec79e51c.636a4d78.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.commits.show-pages.projects.show-pages.projects.tree.show.5f2d91dd.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.commits.show-pages.projects.show-pages.projects.tree.show.a3ba470d.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show-pages.search.show.728daa4a.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/ca242944.66c3e7a5.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blame.show-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.63111eb5.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.0e5dbda4.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.tree.show-treeList.94ff1a58.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/pages.projects.blob.show.c13da87c.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blame.show-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.9edd5f9a.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.f94baf72.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.tree.show-treeList.b4ad9b8d.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.projects.blob.show.18cd7d3a.chunk.js" defer="defer"></script>
 
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
@@ -146,7 +146,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://oros-git.regione.puglia.it/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="_zZcl6nCxZuHvLgsjXa6C3rOsoh5LTpZ798UCAC3XL0wx1Kta2yGJAjw348qr3dx-GhJDQK2dIShyHkkY_wtsw" />
+<meta name="csrf-token" content="EjPJlGqRn-29QnBymTmSQ_AraIs0EqyZRRpb2EY40V6sAxs6Y7cKBXv4G_vUEfFr7buek0Oh_vOpEZcL2QiD6w" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
@@ -197,6 +197,21 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 <div class="js-static-panel static-panel content-wrapper gl-relative paneled-view gl-flex-1 gl-overflow-y-auto gl-bg-default" id="static-panel-portal">
 <div class="panel-header">
 <div class="broadcast-wrapper">
+
+<div class="gl-broadcast-message banner js-broadcast-notification-1 light-red" data-broadcast-banner data-testid="banner-broadcast-message" role="alert">
+<div class="gl-broadcast-message-content">
+<div class="gl-broadcast-message-icon">
+<svg class="s16" data-testid="bullhorn-icon"><use href="/assets/icons-41229992eca580608aadaaa9b83b717650b2863442574d0ebb87f859c42a3b6c.svg#bullhorn"></use></svg>
+</div>
+<div class="gl-broadcast-message-text">
+<h2 class="gl-sr-only">Admin message</h2>
+<p><gl-emoji title="warning" data-name="warning" data-unicode-version="6.0">⚠️</gl-emoji> MANUTENZIONE STRAORDINARIA — Si informa che oggi 28/08/2026, dalle 17:00 alle 18:30, il servizio sarà interessato da un intervento di manutenzione straordinaria. Durante la finestra potrebbero verificarsi temporanee indisponibilità o interruzioni del servizio. Il servizio dalle 17:00 in poi sarà reso read-only, i successivi commit non salvati non saranno garantiti</p>
+<p><gl-emoji title="warning" data-name="warning" data-unicode-version="6.0">⚠️</gl-emoji> STRAORDINARY MAINTENANCE — Please be advised that today, 28/08/2026, from 17:00 to 18:30, the service will undergo extraordinary maintenance.</p>
+<p>During this maintenance window, temporary service unavailability or interruptions may occur. From 17:00 onwards, the service will be switched to read-only mode. Any subsequent commits or unsaved changes cannot be guaranteed and may be lost.</p>
+</div>
+</div>
+</div>
+
 
 
 

@@ -10,7 +10,7 @@
 <title>portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg · main · Regione Puglia / Ecosistema  Cultura e Turismo / CulturaInPuglia · GitLab</title>
 <script>
 //<![CDATA[
-window.gon={};gon.math_rendering_limits_enabled=true;gon.features={"allowIframesInMarkdown":false,"inlineBlame":false,"repositoryFileTreeBrowser":true,"blobEditRefactor":true};
+window.gon={};gon.math_rendering_limits_enabled=true;gon.features={"allowIframesInMarkdown":false,"useMermaidV11":false,"inlineBlame":false,"repositoryFileTreeBrowser":true,"blobEditRefactor":true};
 //]]>
 </script>
 
@@ -54,7 +54,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"3cirfCgyILaNBQ_kWWXbFNd901-PA3WJYBEOtyZZFXNj-HnSIRS1Xku_ZG0UTbg8yu0lR_iwJ-OMGsJkuWlHxg","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"8EXO0I8_fx34_1DbEBjJKUdZbVEW79u-euP3RqrE4ggXvpKaPIzyIY2hzK9jeMEZek-Z1FwSL8vnMf8aFAXtlQ","x-gitlab-feature-category":"source_code_management"};
   const url = `https://oros-git.regione.puglia.it/api/graphql`
 
   const opts = {
@@ -79,27 +79,27 @@ if (gl.startup_graphql_calls && window.fetch) {
 //]]>
 </script>
 
-<link rel="prefetch" href="/assets/webpack/monaco.2f50fc5f.chunk.js">
+<link rel="prefetch" href="/assets/webpack/monaco.c5191398.chunk.js">
 
 <meta content="light dark" name="color-scheme">
-<link rel="stylesheet" href="/assets/application-6be94c37406653e47bdb70afcadda996d60407322e4b979fbfdff1d2509411e5.css" media="(prefers-color-scheme: light)" />
-<link rel="stylesheet" href="/assets/application_dark-466217db14149b93ed8e25829673abe5881c76f5e5a8ecb67b9f332268786bd0.css" media="(prefers-color-scheme: dark)" />
-<link rel="stylesheet" href="/assets/page_bundles/tree-fb7df91c595e3158c2ad5a485cfb0039d488d3ba8e39d62b61cd585c78608e64.css" /><link rel="stylesheet" href="/assets/page_bundles/projects-5ff1d9a4f328199704b89fcdbf5501b932b19e481ac1139171ece972e7cf4c7f.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-af321897c3b1ae7c1f6f0cb993681211b837df7ec8e5ff59e3795fd08ab83a13.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-e58f07f39b2c4557134baf9f32b68c875fffb37fe1c5d8808fb7607d19f5690b.css" />
-<link rel="stylesheet" href="/assets/tailwind_cqs-92f3865c0fca5c3810f03152813a404eb28e77c54b528a543f06b8c9c197778f.css" />
+<link rel="stylesheet" href="/assets/application-6cfc5bf1accc7be60a097014ba8b526bd361cfa9f5b0755ec6c38716971f3f05.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/application_dark-78fb9312ecec789a0e5325c913c3401bf8b9ca4dac842db0da7f0127028c6117.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/page_bundles/tree-fb7df91c595e3158c2ad5a485cfb0039d488d3ba8e39d62b61cd585c78608e64.css" /><link rel="stylesheet" href="/assets/page_bundles/projects-e026555ba170101c08062b870b781c703c82d4fe5104190714162f0739e10684.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-fe78a3dcdbc87456d93535d15aa5ef609b9a8623591a687b335e85fa08fdbd12.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-e58f07f39b2c4557134baf9f32b68c875fffb37fe1c5d8808fb7607d19f5690b.css" />
+<link rel="stylesheet" href="/assets/tailwind_cqs-ef4824f60d56559339ee7cfc71e29c445ebea667adc766d6ee1f6eb3bfc9f2bc.css" />
 
 
 <link rel="stylesheet" href="/assets/fonts-deb7ad1d55ca77c0172d8538d53442af63604ff490c74acc2859db295c125bdb.css" />
-<link rel="stylesheet" href="/assets/highlight/themes/white-d436882f650831f756a6394bdaa66486d5ef99218601d4839f4d640558a4f307.css" media="(prefers-color-scheme: light)" />
-<link rel="stylesheet" href="/assets/highlight/themes/dark-9afe7e06099105c59ea8fe5379843ddf5c5dfcb3cc523eed3a9d4147f6ba7c5b.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/highlight/themes/white-91053d9b33e6ca83f1ccc9f675156756bb42617c9bc1cda4b3915abc0547ceda.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/highlight/themes/dark-fa67ecd7679c9e378a28d89e0ab7f2423d7dbba3770b71f213b0453730ea247e.css" media="(prefers-color-scheme: dark)" />
 
-<script src="/assets/webpack/runtime.cc347b1c.bundle.js" defer="defer"></script>
-<script src="/assets/webpack/main.4d208969.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/tracker.3bba319e.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/runtime.c1fc9191.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.bb2bd19d.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/tracker.1eb446cb.chunk.js" defer="defer"></script>
 <script>
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"oros-git.regione.puglia.it:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-7","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M148HKA88JF2YXVF45XMN1JK","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-08-28T15:22:00.371+02:00"}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M169FZG22JRWQEF7BS08JGG0","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-08-29T10:17:04.721+02:00","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://oros-git.regione.puglia.it/namespace1048/project397/-/blob/:repository_path";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -109,28 +109,31 @@ gl.onlySendDuoEvents = false;
 
 //]]>
 </script>
-<link rel="preload" href="/assets/application-6be94c37406653e47bdb70afcadda996d60407322e4b979fbfdff1d2509411e5.css" as="style" type="text/css">
-<link rel="preload" href="/assets/highlight/themes/white-d436882f650831f756a6394bdaa66486d5ef99218601d4839f4d640558a4f307.css" as="style" type="text/css">
+<link rel="preload" href="/assets/application-6cfc5bf1accc7be60a097014ba8b526bd361cfa9f5b0755ec6c38716971f3f05.css" as="style" type="text/css">
+<link rel="preload" href="/assets/highlight/themes/white-91053d9b33e6ca83f1ccc9f675156756bb42617c9bc1cda4b3915abc0547ceda.css" as="style" type="text/css">
 
 
 
 
-<script src="/assets/webpack/commons-pages.search.show-super_sidebar.b3610a2f.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/super_sidebar.19b55e37.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.alert_management.details-pages.project-2589d178.6aa504b8.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.admin.application_settings-pages.admin.application_settings.appearances.preview_sign_i-489f33f7.b35a3019.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.explore.catalog-pages.groups.harbor.repositories-pages.groups.issues-pages.groups.new--aa29c505.0ea1bdf9.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.search.show-super_sidebar.3d3a4264.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/super_sidebar.5c142ba2.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.alert_management.details-pages.project-50a40738.528ebe79.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.application_settings-pages.admin.application_settings.appearances.preview_sign_i-489f33f7.303c98cc.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/commons-pages.admin.impersonation_tokens-pages.groups.issues-pages.groups.merge_requests-pages.group-5be7a22a.fc0cb7ea.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.import.bitbucket_server.new-pages.import.gitea.new-pages.import.gitlab_projects.new-pa-0ee6e2d3.dbc2858a.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.edit-pages.projects.sni-42df7d4c.3c670189.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.5c4bc050.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.edit-pages.projects.blob.new-pages.projects.blob.show-pages.projects.sho-ec79e51c.636a4d78.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.commits.show-pages.projects.show-pages.projects.tree.show.a3ba470d.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show-pages.search.show.728daa4a.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/ca242944.66c3e7a5.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blame.show-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.9edd5f9a.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.f94baf72.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.tree.show-treeList.b4ad9b8d.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/pages.projects.blob.show.18cd7d3a.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.import.bitbucket_server.new-pages.import.gitea.new-pages.import.gitlab_projects.new-pa-0ee6e2d3.2e764228.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.edit-pages.projects.sni-42df7d4c.c9b02a3e.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.show-pages.projects.blob.edit-pages.projects.blob.new-pages.projects.blob.show--ef179c43.8a582c06.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.b553734c.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.edit-pages.projects.blob.new-pages.projects.blob.show-pages.projects.sho-ec79e51c.bdf3e34e.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show-pages.search.show.2f2edfb3.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blame.show-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.9b78aca3.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.commits.show-pages.projects.show-pages.projects.tree.show.e4deac69.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/7179fa78.3bcfca79.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.show-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.aa325746.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.946515be.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.tree.show-treeList.33e698dc.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.projects.blob.show.8c64aab6.chunk.js" defer="defer"></script>
 
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
@@ -146,7 +149,7 @@ gl.onlySendDuoEvents = false;
 <meta content="https://oros-git.regione.puglia.it/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="EjPJlGqRn-29QnBymTmSQ_AraIs0EqyZRRpb2EY40V6sAxs6Y7cKBXv4G_vUEfFr7buek0Oh_vOpEZcL2QiD6w" />
+<meta name="csrf-token" content="vIug9GFAHSS3sogPOy5Y9X_vJ8ZTxTtX1JAY7CSTj1lbcPy-0vOQGMLsFHtITlDFQvnTQxk4zyJJQhCwmlKAxA" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link href="/-/manifest.json" rel="manifest">
@@ -198,21 +201,6 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 <div class="panel-header">
 <div class="broadcast-wrapper">
 
-<div class="gl-broadcast-message banner js-broadcast-notification-1 light-red" data-broadcast-banner data-testid="banner-broadcast-message" role="alert">
-<div class="gl-broadcast-message-content">
-<div class="gl-broadcast-message-icon">
-<svg class="s16" data-testid="bullhorn-icon"><use href="/assets/icons-41229992eca580608aadaaa9b83b717650b2863442574d0ebb87f859c42a3b6c.svg#bullhorn"></use></svg>
-</div>
-<div class="gl-broadcast-message-text">
-<h2 class="gl-sr-only">Admin message</h2>
-<p><gl-emoji title="warning" data-name="warning" data-unicode-version="6.0">⚠️</gl-emoji> MANUTENZIONE STRAORDINARIA — Si informa che oggi 28/08/2026, dalle 17:00 alle 18:30, il servizio sarà interessato da un intervento di manutenzione straordinaria. Durante la finestra potrebbero verificarsi temporanee indisponibilità o interruzioni del servizio. Il servizio dalle 17:00 in poi sarà reso read-only, i successivi commit non salvati non saranno garantiti</p>
-<p><gl-emoji title="warning" data-name="warning" data-unicode-version="6.0">⚠️</gl-emoji> STRAORDINARY MAINTENANCE — Please be advised that today, 28/08/2026, from 17:00 to 18:30, the service will undergo extraordinary maintenance.</p>
-<p>During this maintenance window, temporary service unavailability or interruptions may occur. From 17:00 onwards, the service will be switched to read-only mode. Any subsequent commits or unsaved changes cannot be guaranteed and may be lost.</p>
-</div>
-</div>
-</div>
-
-
 
 
 </div>
@@ -227,8 +215,8 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 <div data-testid="breadcrumb-links" id="js-vue-page-breadcrumbs-wrapper">
 <div data-breadcrumbs-json="[{&quot;text&quot;:&quot;Regione Puglia&quot;,&quot;href&quot;:&quot;/regione-puglia&quot;,&quot;avatarPath&quot;:null},{&quot;text&quot;:&quot;Ecosistema  Cultura e Turismo&quot;,&quot;href&quot;:&quot;/regione-puglia/ect&quot;,&quot;avatarPath&quot;:null},{&quot;text&quot;:&quot;CulturaInPuglia&quot;,&quot;href&quot;:&quot;/regione-puglia/ect/culturainpuglia&quot;,&quot;avatarPath&quot;:null},{&quot;text&quot;:&quot;Repository&quot;,&quot;href&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/blob/main/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg&quot;,&quot;avatarPath&quot;:null}]" id="js-vue-page-breadcrumbs"></div>
 <div id="js-injected-page-breadcrumbs"></div>
-<div id="js-page-breadcrumbs-extra"></div>
 </div>
+<div id="js-page-breadcrumbs-extra"></div>
 
 
 <div id="js-work-item-feedback"></div>
@@ -287,7 +275,7 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 <div class="gl-flex navigation-root">
 <div id="js-file-browser" style="width:320px"></div>
 <div class="tree-holder gl-pt-5 gl-pl-4 gl-w-full gl-min-w-0" id="tree-holder">
-<div data-blob-path="portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg" data-breadcrumbs-can-collaborate="false" data-breadcrumbs-can-edit-tree="false" data-breadcrumbs-can-push-code="false" data-breadcrumbs-can-push-to-branch="false" data-breadcrumbs-new-blob-path="/regione-puglia/ect/culturainpuglia/-/new/main" data-breadcrumbs-new-branch-path="/regione-puglia/ect/culturainpuglia/-/branches/new" data-breadcrumbs-new-dir-path="/regione-puglia/ect/culturainpuglia/-/create_dir/main" data-breadcrumbs-new-tag-path="/regione-puglia/ect/culturainpuglia/-/tags/new" data-breadcrumbs-upload-path="/regione-puglia/ect/culturainpuglia/-/create/main" data-download-links="[{&quot;text&quot;:&quot;zip&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.zip&quot;},{&quot;text&quot;:&quot;tar.gz&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar.gz&quot;},{&quot;text&quot;:&quot;tar.bz2&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar.bz2&quot;},{&quot;text&quot;:&quot;tar&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar&quot;}]" data-escaped-ref="main" data-history-link="/regione-puglia/ect/culturainpuglia/-/commits/main" data-http-url="https://oros-git.regione.puglia.it/regione-puglia/ect/culturainpuglia.git" data-project-id="397" data-project-path="regione-puglia/ect/culturainpuglia" data-project-root-path="/regione-puglia/ect/culturainpuglia" data-project-short-path="culturainpuglia" data-ref="main" data-ref-type="heads" data-root-ref="main" data-show-no-ssh-key-message="" data-ssh-url="git@oros-git.regione.puglia.it:regione-puglia/ect/culturainpuglia.git" data-user-settings-ssh-keys-path="/-/user_settings/ssh_keys" data-web-ide-button-default-branch="main" data-web-ide-button-options="{&quot;project_path&quot;:&quot;regione-puglia/ect/culturainpuglia&quot;,&quot;ref&quot;:&quot;main&quot;,&quot;is_fork&quot;:false,&quot;needs_to_fork&quot;:true,&quot;gitpod_enabled&quot;:false,&quot;is_blob&quot;:true,&quot;show_edit_button&quot;:false,&quot;show_web_ide_button&quot;:false,&quot;show_gitpod_button&quot;:false,&quot;show_pipeline_editor_button&quot;:false,&quot;web_ide_url&quot;:&quot;/-/ide/project/regione-puglia/ect/culturainpuglia/edit/main/-/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura%40home.svg&quot;,&quot;edit_url&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/edit/main/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg&quot;,&quot;pipeline_editor_url&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/ci/editor?branch_name=main&quot;,&quot;gitpod_url&quot;:&quot;&quot;,&quot;user_preferences_gitpod_path&quot;:&quot;/-/profile/preferences#user_gitpod_enabled&quot;,&quot;user_profile_enable_gitpod_path&quot;:&quot;/-/user_settings/profile?user%5Bgitpod_enabled%5D=true&quot;,&quot;fork_path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/forks/new&quot;,&quot;fork_modal_id&quot;:null}" data-xcode-url="" id="js-repository-blob-header-app"></div>
+<div data-blob-path="portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg" data-breadcrumbs-can-collaborate="false" data-breadcrumbs-can-edit-tree="false" data-breadcrumbs-can-push-code="false" data-breadcrumbs-can-push-to-branch="false" data-breadcrumbs-new-blob-path="/regione-puglia/ect/culturainpuglia/-/new/main" data-breadcrumbs-new-branch-path="/regione-puglia/ect/culturainpuglia/-/branches/new" data-breadcrumbs-new-dir-path="/regione-puglia/ect/culturainpuglia/-/create_dir/main" data-breadcrumbs-new-tag-path="/regione-puglia/ect/culturainpuglia/-/tags/new" data-breadcrumbs-upload-path="/regione-puglia/ect/culturainpuglia/-/create/main" data-download-links="[{&quot;text&quot;:&quot;zip&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.zip?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar.gz&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar.gz?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar.bz2&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar.bz2?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar?ref_type=heads&quot;}]" data-escaped-ref="main" data-history-link="/regione-puglia/ect/culturainpuglia/-/commits/main" data-http-url="https://oros-git.regione.puglia.it/regione-puglia/ect/culturainpuglia.git" data-project-id="397" data-project-path="regione-puglia/ect/culturainpuglia" data-project-root-path="/regione-puglia/ect/culturainpuglia" data-project-short-path="culturainpuglia" data-ref="main" data-ref-type="heads" data-root-ref="main" data-show-no-ssh-key-message="" data-ssh-url="git@oros-git.regione.puglia.it:regione-puglia/ect/culturainpuglia.git" data-user-settings-ssh-keys-path="/-/user_settings/ssh_keys" data-web-ide-button-default-branch="main" data-web-ide-button-options="{&quot;project_path&quot;:&quot;regione-puglia/ect/culturainpuglia&quot;,&quot;ref&quot;:&quot;main&quot;,&quot;is_fork&quot;:false,&quot;needs_to_fork&quot;:true,&quot;gitpod_enabled&quot;:false,&quot;is_blob&quot;:true,&quot;show_edit_button&quot;:false,&quot;show_web_ide_button&quot;:false,&quot;show_gitpod_button&quot;:false,&quot;show_pipeline_editor_button&quot;:false,&quot;web_ide_url&quot;:&quot;/-/ide/project/regione-puglia/ect/culturainpuglia/edit/main/-/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura%40home.svg&quot;,&quot;edit_url&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/edit/main/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg&quot;,&quot;pipeline_editor_url&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/ci/editor?branch_name=main&quot;,&quot;gitpod_url&quot;:&quot;&quot;,&quot;user_preferences_gitpod_path&quot;:&quot;/-/profile/preferences#user_gitpod_enabled&quot;,&quot;user_profile_enable_gitpod_path&quot;:&quot;/-/user_settings/profile?user%5Bgitpod_enabled%5D=true&quot;,&quot;fork_path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/forks/new&quot;,&quot;fork_modal_id&quot;:null}" data-xcode-url="" id="js-repository-blob-header-app"></div>
 <div class="info-well">
 <div data-history-link="/regione-puglia/ect/culturainpuglia/-/commits/main" id="js-last-commit"></div>
 <div class="gl-hidden @sm/panel:gl-block">

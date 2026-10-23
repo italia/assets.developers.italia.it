@@ -55,7 +55,7 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e)
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"gitlab.tuodominio.it:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","client_type":"api","correlation_id":"01M5H4WY7FZQ5S9VB6S8H5FH75","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":null,"ultimate_parent_namespace_id":null,"project_id":null,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-10-22T06:31:12.440Z","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","client_type":"api","correlation_id":"01M5KPYP1QDTDXR5V96C76MCD8","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":null,"ultimate_parent_namespace_id":null,"project_id":null,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-10-23T06:25:12.836Z","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://gitlab.consiglio.puglia.it/users/sign_in";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -89,7 +89,7 @@ gl.onlySendDuoEvents = false;
 
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="CBuaNAXoTNQ6LpmqIrMd7WkwgdFOdvhrSgysgsO4uHqu3g9E_LAncjVXg6TMTOZdmsyBvga89pi8fy9LMViplg" />
+<meta name="csrf-token" content="O-AHVgqM-589Fvmbm81iIy82PbMKxdPxjPBzGJ4wE6WbMiI2sQgAUfiWuCpYvZyQ8DXcFM5KFe3FqPA6B2lEdg" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
 <link crossorigin="use-credentials" href="/-/manifest.json" rel="manifest">
@@ -163,7 +163,7 @@ GitLab Community Edition
 <div data-app-data="{&quot;sign_in_path&quot;:&quot;/users/sign_in&quot;,&quot;users_sign_in_path_path&quot;:&quot;/users/sign_in_path&quot;,&quot;passkeys_sign_in_path&quot;:&quot;/users/passkeys/sign_in&quot;,&quot;is_unconfirmed_email&quot;:false,&quot;new_user_confirmation_path&quot;:&quot;/users/confirmation/new&quot;,&quot;new_password_path&quot;:&quot;/users/password/new&quot;,&quot;show_captcha&quot;:false,&quot;is_remember_me_enabled&quot;:true,&quot;show_passkey_immediately&quot;:true}" id="js-sign-in-form">
 <div class="gl-spinner-container gl-my-5" role="status"><span aria-hidden class="gl-spinner gl-spinner-md gl-spinner-dark !gl-align-text-bottom"></span><span class="gl-sr-only !gl-absolute">Loading</span>
 </div>
-<form action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="A-PZ_1A7aLQIys1u2U9bTPwoc-jo6cBAPVI2_JdQ_celJkyPqWMDEgez12A3sKD8D9Rzh6AjzrPLIbU1ZbDsKw" autocomplete="off" /><input data-js-name="login" autocomplete="off" type="hidden" name="user[login]" id="user_login" />
+<form action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jaC5r3IOMWsa2zywQqT-kSCv8KxcT8jta77ab0n8FxctcpzPyYrKpd9bfQGB1AAi_6wRC5jADvEi5llN0KVAxA" autocomplete="off" /><input data-js-name="login" autocomplete="off" type="hidden" name="user[login]" id="user_login" />
 <input data-js-name="password" autocomplete="off" type="hidden" name="user[password]" id="user_password" />
 <input data-js-name="rememberMe" autocomplete="off" type="hidden" name="user[remember_me]" id="user_remember_me" />
 </form></div>

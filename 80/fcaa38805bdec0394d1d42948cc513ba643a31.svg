@@ -2,7 +2,7 @@
 
 
 <!DOCTYPE html>
-<html class="gl-system ui-neutral with-top-bar with-header page-theme-background page-with-panels with-gl-container-queries user-logged-out" lang="en">
+<html class="gl-system ui-neutral with-top-bar with-header page-with-panels with-gl-container-queries user-logged-out" lang="en">
 <head prefix="og: http://ogp.me/ns#">
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
@@ -15,7 +15,7 @@
 
 <script>
 //<![CDATA[
-window.gon={};gon.math_rendering_limits_enabled=true;gon.features={"allowIframesInMarkdown":false,"inlineBlame":true,"duoConvertCiUseDeveloperFlow":false};
+window.gon={};gon.math_rendering_limits_enabled=true;gon.features={"allowIframesInMarkdown":false,"useMermaidV12":false};
 //]]>
 </script>
 
@@ -59,7 +59,7 @@ if (gl.startup_calls && window.fetch) {
   });
 }
 if (gl.startup_graphql_calls && window.fetch) {
-  const headers = {"X-CSRF-Token":"YhSR0f2nBZS3vqPK2_olXDSogtvvwi8AoCxkDVF64XTwJMqvi2P1lIYZ8d01txw5wF4-LwOUgan_pmdJ6S8Eyw","x-gitlab-feature-category":"source_code_management"};
+  const headers = {"X-CSRF-Token":"2Cm2i7GT4B9GgIr1YQpP5OzPNFfywFR7cDLNNGsP7JYOsyr_YeXHMG8agYE5zOijfAbAJ2x2ak-bzr6RBPzfHw","x-gitlab-feature-category":"source_code_management"};
   const url = `https://oros-git.regione.puglia.it/api/graphql`
 
   const opts = {
@@ -84,27 +84,27 @@ if (gl.startup_graphql_calls && window.fetch) {
 //]]>
 </script>
 
-<link rel="prefetch" href="/assets/webpack/monaco.04f495d7.chunk.js">
+<link rel="prefetch" href="/assets/webpack/monaco.96d357c8.chunk.js">
 
 <meta content="light dark" name="color-scheme">
-<link rel="stylesheet" href="/assets/application-6d6fcce8e795658e806b9708fca180a3dd4439986d86360ba5fffa816d50d351.css" media="(prefers-color-scheme: light)" />
-<link rel="stylesheet" href="/assets/application_dark-0196dff35ef20fee2ecdf7e7652a49dd4db51dd4ab1928fd21c7e16d9803dee8.css" media="(prefers-color-scheme: dark)" />
-<link rel="stylesheet" href="/assets/page_bundles/tree-82a2b0a643427b8cc237cf2437e78bf5ad46c53355f902927c25570510d6852a.css" /><link rel="stylesheet" href="/assets/page_bundles/projects-2d5b0f8de7829b78958778a73c6202488874e74d1b301ae6c825cacadb153dfb.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-44ac6ef10b6c1a50a3c68696db6f2eee6ac41b0ed6ab194976aa423876428aaf.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-c9b57d9276475765933235e17bca90b09602a2cced07e212f2e2eb086555758e.css" />
-<link rel="stylesheet" href="/assets/tailwind-cb5bd74076669c61e1e67b8afda902c321a5b5e7e7b885c6250508600e48fbc0.css" />
+<link rel="stylesheet" href="/assets/application-79f356d98146549c21e5657de00ff91a957f995329d1725db0bb2a7251d2b59a.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/application_dark-a3de088d254f447173abe48a05ec6b7ac075668b58b5be1aa26c5012bb0f8395.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/page_bundles/tree-c7ee4210fee3e1004d99dd5eb2483d2711447051180f46718d8cd1bc741b455a.css" /><link rel="stylesheet" href="/assets/page_bundles/projects-f19dc1a1db773c979f17ccab5d349c8a65f20196156c47d16494b0f692e8f347.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/design_management-4765252040ab8edacfb27d7015bf41527629b0dc4fdacd1f1bc9d3f65cecae1b.css" /><link rel="stylesheet" href="/assets/page_bundles/issuable_list-7a33f8b5a79c609e4bac7e1fa1c5553962adf726cd700fbead1f9e974c41e7c9.css" /><link rel="stylesheet" href="/assets/page_bundles/issues_list-1d9cdbbaf9469f9073c410dc7a7f2543b02071773aa332daf63803eaaec87e62.css" /><link rel="stylesheet" href="/assets/page_bundles/issues_show-ec954ae4932e0bfe7383adee3c75f53c5985c6edea62c7ae4370cb1f6e85a91a.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-bd75305a90734f71761e8d13c4286994caf487acb52219ee52dcc65c0c3f6a05.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-b2f575a41145c7ff2490084c75138aab201b2593b93846f5812aec8cfb2a6ca2.css" />
+<link rel="stylesheet" href="/assets/tailwind-1643fe418f6d3ad9eacf47d603d9c8150de2e6a435bbd333f32fd5f776cd7c7c.css" />
 
 
 <link rel="stylesheet" href="/assets/fonts-deb7ad1d55ca77c0172d8538d53442af63604ff490c74acc2859db295c125bdb.css" />
-<link rel="stylesheet" href="/assets/highlight/themes/white-c3211f67c1e8d8cfb47de179b2da35275ab7865cdf299ab44b4a8cc52d5cafd3.css" media="(prefers-color-scheme: light)" />
-<link rel="stylesheet" href="/assets/highlight/themes/dark-8cae80594d7953b52bc449bf1b4f2de402c87cc39fffc7aa0187b5f881c0cfd7.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/highlight/themes/white-2a02e7cdb193dcec5b8068ad0a57aee70b1cd0888c8d1dbe8ab5996651334922.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/highlight/themes/dark-7fbedc840cde3d684b77966ee3740cd6cf4ba7c26a807b7c8701223af70f772f.css" media="(prefers-color-scheme: dark)" />
 
-<script src="/assets/webpack/runtime.73e409f6.bundle.js" defer="defer"></script>
-<script src="/assets/webpack/main.c8d42e7d.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/runtime.ea79027a.bundle.js" defer="defer"></script>
+<script src="/assets/webpack/main.02b8bf31.chunk.js" defer="defer"></script>
 <script src="/assets/webpack/tracker.1eb446cb.chunk.js" defer="defer"></script>
 <script>
 //<![CDATA[
 window.snowplowOptions = {"namespace":"gl","hostname":"oros-git.regione.puglia.it:443","postPath":"/-/collect_events","forceSecureTracker":true,"appId":"gitlab_sm"};
 gl = window.gl || {};
-gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","correlation_id":"01M7F4WD0B2C1NXF34VKRKR6KJ","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-11-15T09:23:49.786+01:00","organization_id":1}};
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-8","data":{"environment":"self-managed","source":"gitlab-rails","client_type":"api","correlation_id":"01M7HQR0ZHSKJGGPSNAP3PABGG","extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":1048,"ultimate_parent_namespace_id":940,"project_id":397,"feature_enabled_by_namespace_ids":null,"realm":"self-managed","deployment_type":"self-managed","context_generated_at":"2026-11-16T09:31:58.130+01:00","organization_id":1}};
 gl.snowplowPseudonymizedPageUrl = "https://oros-git.regione.puglia.it/namespace1048/project397/-/blob/:repository_path";
 gl.maskedDefaultReferrerUrl = null;
 gl.ga4MeasurementId = 'G-ENFH3X7M5Y';
@@ -117,33 +117,35 @@ gl.onlySendDuoEvents = false;
 
 
 
-<script src="/assets/webpack/commons-pages.groups.merge_requests-pages.groups.milestones.edit-pages.groups.milestones.new-pages.g-ee47bb0c.fa79f366.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.admin.deploy_keys.index-pages.admin.groups.index-pages.admin.projects.index-pages.admi-332afcc8.48ec767a.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.dashboard.home-pages.registrations.new-pages.sessions.new-super_sidebar.bfa33404.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.search.show-pages.search.show.vue3-super_sidebar.7c167815.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/0dcf7166.63feabc4.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.search.show-super_sidebar.ba891895.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.dashboard.home-super_sidebar.38ee743b.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/super_sidebar.be218cfb.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.activity.vue3-pages.projects.alert_man-c86ff4ca.291bf2cc.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/8632254b.6f2ca0be.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.admin.jobs.index.vue3-pages.admin.runners.index.vue3-pages.admin.runners.show.vue3-pag-cbf232a6.f1638c20.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.admin.runners.index.vue3-pages.explore.analytics_dashboards.vue3-pages.explore.catalog-6690ed88.9e458add.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/32327915.caf6ba4e.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.admin.runners.show.vue3-pages.explore.analytics_dashboards.vue3-pages.explore.catalog.-edfcde2d.fcc520e4.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.admin.runners.show.vue3-pages.explore.analytics_dashboards.vue3-pages.explore.catalog.-1e3d0d9a.b69acb9a.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sn-97b21523.f68ab097.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sn-cc8dd3c5.5d928f0f.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show.vue3-pages.projects.graphs.charts.vue3-pages.projects.graphs.show.v-61e7f6b0.b7fcf6b9.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.tr-82b4c390.1e693227.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sn-47e53e7d.f673de0d.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.edit-pages.projects.blob.new-pages.projects.blob.show-pages.projects.blo-ea607eb8.230e316d.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.tr-c392bf45.e39aa416.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.explore.catalog.vue3-pages.groups.show.vue3-pages.projects.blob.show.vue3-pages.projec-4dce7ec1.a6a9183d.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.tree.show-pages.projec-a16ed7a7.87a1141b.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.groups.show.vue3-pages.projects.blob.show.vue3-pages.projects.tree.show.vue3.c7deaacb.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/commons-pages.projects.blob.show.vue3-pages.projects.pipelines.index.vue3-pages.projects.tree.show.vue3.4e70a60f.chunk.js" defer="defer"></script>
-<script src="/assets/webpack/pages.projects.blob.show.vue3.723aab8c.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-graphql_explorer-pages.admin.application_settings.service_accounts-pages.admin.applications--b635524d.b3338b4b.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.dashboard.issues.vue3-pages.dash-5ffc317d.0bcd8c23.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.dashboard.issues.vue3-pages.dash-f8003152.f196957a.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.application_settings.service_accounts-pages.explore.analytics_dashboards-pages.e-306889d5.8b0f4475.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.abuse_reports.show-pages.dashboard.issues-pages.dashboard.work_items-pages.group-b344e337.050faeee.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.admin.deploy_keys.index-pages.admin.deploy_keys.index.vue3-pages.admin.groups.index-pa-95f4ca76.204c76b4.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.dashboard.home-pages.registrations.new-pages.root-pages.root.vue3-pages.sessions.new-p-a41aff06.d68c093a.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.dashboard.home-pages.projects.snippets.show-pages.projects.snippets.show.vue3-pages.ro-3e3d840b.db458a62.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/0dcf7166.fee24f6c.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.search.show-pages.search.show.vue3-super_sidebar-super_sidebar.vue3.e1ab1d65.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-super_sidebar-super_sidebar.vue3.e38d27a4.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.search.show-super_sidebar.e41625fd.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/super_sidebar.ff1bc863.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects-pages.projects.activity-pages.projects.activity.vue3-pages.projects.alert_man-376eb50e.11611bcc.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/8632254b.bbb48efe.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-jira_connect_app-pages.admin.application_settings.service_accounts-pages.admin.impersonation-294ff6b2.052e3850.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/32327915.808412d1.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.groups.saved_views.show-pages.groups.work_items-pages.groups.work_items.show-pages.pro-164ac21d.01932e06.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sh-7aa92eaa.aa63f32c.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sh-d934921b.1c5a3a9c.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.edit-pages.projects.blob.edit.vue3-pages.projects.blob.new-pages.project-d16b70ea.8fc1dfdd.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.sh-4ce70f9d.15dca315.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.blob.show.vue3-pages.projects.show-pages.projects.tr-c392bf45.8f6f5c63.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.snippets.show-pages.projects.tre-c684fcf6.703bdea7.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.commits.show-pages.projects.show-pages.projects.tree.show.1535a3b3.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.show-pages.projects.tree.show.efbba67d.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.commits.show-pages.projects.tree.show.cde5e16b.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/commons-pages.projects.blob.show-pages.projects.tree.show.4a6f4084.chunk.js" defer="defer"></script>
+<script src="/assets/webpack/pages.projects.blob.show.6250285c.chunk.js" defer="defer"></script>
 
 <meta content="object" property="og:type">
 <meta content="GitLab" property="og:site_name">
@@ -159,13 +161,13 @@ gl.onlySendDuoEvents = false;
 <meta content="https://oros-git.regione.puglia.it/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="Y3RF39L-Y8WXb7D4IEnp6gY80Khm4jwZfJn6msJqVdLxRB6hpDqTxabI4u_OBNCP8spsXIq0krAjE_neej-wbQ" />
+<meta name="csrf-token" content="oCfP2R1oeEoN9RJDkC2Sigq27hnDQ4OEwFs_dulkbC52vVOtzR5fZSRvGTfI6zXNmn8aaV31vbArp0zThpdfpw" />
 <meta name="csp-nonce" />
 <meta name="action-cable-url" content="/-/cable" />
-<link href="/-/manifest.json" rel="manifest">
+<link crossorigin="use-credentials" href="/-/manifest.json" rel="manifest">
 <link rel="icon" type="image/png" href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" id="favicon" data-original-href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" />
 <link rel="apple-touch-icon" type="image/x-icon" href="/assets/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png" />
-<link href="/search/opensearch.xml" rel="search" title="Search GitLab" type="application/opensearchdescription+xml">
+<link crossorigin="use-credentials" href="/search/opensearch.xml" rel="search" title="Search GitLab" type="application/opensearchdescription+xml">
 
 
 
@@ -211,7 +213,7 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 
 </div>
 <div class="panels-container gl-flex gl-gap-3">
-<div class="content-panels gl-flex-1 gl-w-full gl-flex gl-gap-3 gl-relative js-content-panels gl-@container/content-panels">
+<div class="content-panels gl-flex-1 gl-w-full gl-flex gl-gap-0 gl-relative js-content-panels gl-@container/content-panels">
 <div class="paneled-view static-panel js-static-panel js-paneled-view content-wrapper">
 <div class="panel-header">
 <div class="panel-header-inner js-panel-header-inner">
@@ -281,19 +283,18 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 
 
 
-<div class="js-signature-container" data-signatures-path="/regione-puglia/ect/culturainpuglia/-/commits/b7d3374adf7f01ec57ddcca09d369e60af8e00f5/signatures?limit=1"></div>
 
 <div class="gl-flex navigation-root">
 <div id="js-file-browser" style="width:320px"></div>
 <div class="tree-holder gl-pt-5 gl-w-full gl-min-w-0" id="tree-holder">
-<div data-blob-path="portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg" data-breadcrumbs-can-collaborate="false" data-breadcrumbs-can-edit-tree="false" data-breadcrumbs-can-push-code="false" data-breadcrumbs-can-push-to-branch="false" data-breadcrumbs-new-blob-path="/regione-puglia/ect/culturainpuglia/-/new/main" data-breadcrumbs-new-branch-path="/regione-puglia/ect/culturainpuglia/-/branches/new" data-breadcrumbs-new-dir-path="/regione-puglia/ect/culturainpuglia/-/create_dir/main" data-breadcrumbs-new-tag-path="/regione-puglia/ect/culturainpuglia/-/tags/new" data-breadcrumbs-upload-path="/regione-puglia/ect/culturainpuglia/-/create/main" data-download-links="[{&quot;text&quot;:&quot;zip&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.zip?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar.gz&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar.gz?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar.bz2&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar.bz2?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar?ref_type=heads&quot;}]" data-escaped-ref="main" data-history-link="/regione-puglia/ect/culturainpuglia/-/commits/main" data-http-url="https://oros-git.regione.puglia.it/regione-puglia/ect/culturainpuglia.git" data-project-id="397" data-project-path="regione-puglia/ect/culturainpuglia" data-project-root-path="/regione-puglia/ect/culturainpuglia" data-project-short-path="culturainpuglia" data-ref="main" data-ref-type="heads" data-root-ref="main" data-show-no-ssh-key-message="" data-ssh-url="git@oros-git.regione.puglia.it:regione-puglia/ect/culturainpuglia.git" data-user-settings-ssh-keys-path="/-/user_settings/ssh_keys" data-web-ide-button-default-branch="main" data-web-ide-button-options="{&quot;project_path&quot;:&quot;regione-puglia/ect/culturainpuglia&quot;,&quot;ref&quot;:&quot;main&quot;,&quot;is_fork&quot;:false,&quot;needs_to_fork&quot;:true,&quot;gitpod_enabled&quot;:false,&quot;is_blob&quot;:true,&quot;show_edit_button&quot;:false,&quot;show_web_ide_button&quot;:false,&quot;show_gitpod_button&quot;:false,&quot;show_pipeline_editor_button&quot;:false,&quot;web_ide_url&quot;:&quot;/-/ide/project/regione-puglia/ect/culturainpuglia/edit/main/-/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura%40home.svg&quot;,&quot;edit_url&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/edit/main/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg&quot;,&quot;pipeline_editor_url&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/ci/editor?branch_name=main&quot;,&quot;gitpod_url&quot;:&quot;&quot;,&quot;user_preferences_gitpod_path&quot;:&quot;/-/profile/preferences#user_gitpod_enabled&quot;,&quot;user_profile_enable_gitpod_path&quot;:&quot;/-/user_settings/profile?user%5Bgitpod_enabled%5D=true&quot;,&quot;fork_path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/forks/new&quot;,&quot;fork_modal_id&quot;:null}" data-xcode-url="" id="js-repository-blob-header-app"></div>
+<div data-blob-path="portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg" data-breadcrumbs-can-collaborate="false" data-breadcrumbs-can-edit-tree="false" data-breadcrumbs-can-push-code="false" data-breadcrumbs-can-push-to-branch="false" data-breadcrumbs-new-blob-path="/regione-puglia/ect/culturainpuglia/-/new/main" data-breadcrumbs-new-branch-path="/regione-puglia/ect/culturainpuglia/-/branches/new" data-breadcrumbs-new-dir-path="/regione-puglia/ect/culturainpuglia/-/create_dir/main" data-breadcrumbs-new-tag-path="/regione-puglia/ect/culturainpuglia/-/tags/new" data-breadcrumbs-upload-path="/regione-puglia/ect/culturainpuglia/-/create/main" data-custom-code-dropdown-clients="[]" data-download-links="[{&quot;text&quot;:&quot;zip&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.zip?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar.gz&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar.gz?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar.bz2&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar.bz2?ref_type=heads&quot;},{&quot;text&quot;:&quot;tar&quot;,&quot;path&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/archive/main/culturainpuglia-main.tar?ref_type=heads&quot;}]" data-escaped-ref="main" data-history-link="/regione-puglia/ect/culturainpuglia/-/commits/main" data-http-url="https://oros-git.regione.puglia.it/regione-puglia/ect/culturainpuglia.git" data-project-id="397" data-project-path="regione-puglia/ect/culturainpuglia" data-project-root-path="/regione-puglia/ect/culturainpuglia" data-project-short-path="culturainpuglia" data-ref="main" data-ref-type="heads" data-root-ref="main" data-show-no-ssh-key-message="" data-ssh-url="git@oros-git.regione.puglia.it:regione-puglia/ect/culturainpuglia.git" data-user-settings-ssh-keys-path="/-/user_settings/ssh_keys" data-web-ide-button-options="{&quot;is_fork&quot;:false,&quot;needs_to_fork&quot;:true,&quot;gitpod_enabled&quot;:false,&quot;is_blob&quot;:true,&quot;show_edit_button&quot;:false,&quot;show_web_ide_button&quot;:false,&quot;show_gitpod_button&quot;:false,&quot;show_pipeline_editor_button&quot;:false,&quot;web_ide_url&quot;:&quot;/-/ide/project/regione-puglia/ect/culturainpuglia/edit/main/-/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura%40home.svg&quot;,&quot;edit_url&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/edit/main/portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg&quot;,&quot;pipeline_editor_url&quot;:&quot;/regione-puglia/ect/culturainpuglia/-/ci/editor?branch_name=main&quot;,&quot;gitpod_url&quot;:&quot;&quot;,&quot;user_preferences_gitpod_path&quot;:&quot;/-/profile/preferences#user_gitpod_enabled&quot;,&quot;user_profile_enable_gitpod_path&quot;:&quot;/-/user_settings/profile?user%5Bgitpod_enabled%5D=true&quot;}" data-xcode-url="" id="js-repository-blob-header-app"></div>
 <div class="info-well">
 <div data-history-link="/regione-puglia/ect/culturainpuglia/-/commits/main" id="js-last-commit"></div>
 <div class="gl-hidden @sm/panel:gl-block">
 
 </div>
 </div>
-<div class="blob-content-holder js-per-page" data-blame-per-page="1000" id="blob-content-holder">
+<div class="blob-content-holder" id="blob-content-holder">
 <div data-blob-path="portale-cultura/themes/CulturaInPuglia-theme/src/images/aret/logoCultura@home.svg" data-can-download-code="true" data-escaped-ref="main" data-full-name="Regione Puglia / Ecosistema  Cultura e Turismo / CulturaInPuglia" data-has-revs-file="false" data-original-branch="main" data-project-path="regione-puglia/ect/culturainpuglia" data-ref-type="heads" data-resource-id="gid://gitlab/Project/397" id="js-view-blob-app">
 <div class="gl-spinner-container" role="status"><span aria-hidden class="gl-spinner gl-spinner-md gl-spinner-dark !gl-align-text-bottom"></span><span class="gl-sr-only !gl-absolute">Loading</span>
 </div>
@@ -322,7 +323,7 @@ document.documentElement.style.setProperty('--scrollbar-width', `${scrollbarWidt
 
 </div>
 </div>
-<div class="paneled-view-portal gl-@container/panel !gl-absolute gl-shadow-lg gl-bg-default @xl/content-panels:gl-w-1/2 @xl/content-panels:gl-shadow-none @xl/content-panels:!gl-relative @xl/content-panels:gl-bg-transparent gl-right-0" id="contextual-panel-portal"></div>
+<div class="paneled-view-portal" id="contextual-panel-portal"></div>
 </div>
 </div>
 
@@ -336,9 +337,11 @@ if ('loading' in HTMLImageElement.prototype) {
     img.loading = 'lazy';
     let imgUrl = img.dataset.src;
     // Only adding width + height for avatars for now
-    if (imgUrl.indexOf('/avatar/') > -1 && imgUrl.indexOf('?') === -1) {
+    // Keep this logic in sync with appendWidthToAvatarUrl in
+    // app/assets/javascripts/vue_shared/components/user_avatar/utils.js
+    if (imgUrl.indexOf('/avatar/') > -1 && !imgUrl.includes('width=')) {
       const targetWidth = img.getAttribute('width') || img.width;
-      imgUrl += `?width=${targetWidth}`;
+      imgUrl += imgUrl.includes('?') ? `&width=${targetWidth}` : `?width=${targetWidth}`;
     }
     img.src = imgUrl;
     img.removeAttribute('data-src');
